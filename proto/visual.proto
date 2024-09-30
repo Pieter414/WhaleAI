@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option go_package = "./proto";
+
+service VisualService {
+    rpc GenerateTimeSeries (TimeSeriesRequest) returns (ImageResponse);
+    rpc GenerateMonthlyAverage (DatasetRequest) returns (ImageResponse);
+    rpc GenerateVolumeAnalysis (VolumeAnalysisRequest) returns (ImageResponse);
+    rpc GeneratePriceAndPercent (DatasetRequest) returns (ImageResponse);
+}
+
+message TimeSeriesRequest {
+    string dataset = 1;
+    int32 mv = 2;
+    string data_range = 3;
+}
+
+message VolumeAnalysisRequest {
+    string dataset = 1;
+    string data_range = 2;
+}
+
+message DatasetRequest {
+    string dataset = 1;
+}
+
+message ImageResponse {
+    bytes image_data = 1;
+}
