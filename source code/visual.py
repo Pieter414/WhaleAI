@@ -8,6 +8,8 @@ class Visual(Data):
     def __init__(self, link) -> None:
         super().__init__(link)
 
+
+    # Export time-series data based on time and moving average 
     def time_series(self, mv=20, date_range="all"):
         stock_data = self.df.copy()
         stock_data[f'{mv}-day SMA'] = stock_data['Previous'].rolling(window=mv).mean()
@@ -23,6 +25,7 @@ class Visual(Data):
             start_date = stock_data['Last Trading Date'].min()  # Use the earliest date if no range specified
 
         stock_data = stock_data[stock_data['Last Trading Date'] >= start_date]
+
 
         # Plot garis data yang difilter dengan moving average
         plt.figure(figsize=(10, 6))
@@ -41,6 +44,8 @@ class Visual(Data):
         plt.savefig(link_path)
         print(f"Plot saved to '{link_path}'")
 
+
+    # Historic monthly price change over the years
     def monthly_average(self):
         stock_data = self.df.copy()
         monthly_price_change = stock_data.groupby(['Year', 'Month'])['Previous'].mean().pct_change() * 100
@@ -60,5 +65,57 @@ class Visual(Data):
         link_path = f'./assets/table_change.png'
         plt.savefig(link_path)
         print(f"Plot saved to '{link_path}'")
+
+
+    def volume_analysis(self, date_range='all'):
+        stock_data = self.df.copy()
+        daily_volume = stock_data.groupby('Last Trading Date')['Bid Volume'].mean().reset_index()
+
+        # Filter data berdasarkan range waktunya
+        today = pd.Timestamp.now()
+
+        if date_range == 'year':
+            start_date = today - pd.DateOffset(years=1)
+        elif date_range == 'week':
+            start_date = today - pd.DateOffset(weeks=1)
+        elif date_range == 'all':
+            start_date = stock_data['Last Trading Date'].min()  # Use the earliest date if no range specified
+
+        daily_volume = daily_volume[daily_volume['Last Trading Date'] >= start_date]
+        
+        plt.figure(figsize=(12, 6))
+        plt.plot(daily_volume['Last Trading Date'], daily_volume['Bid Volume'], marker='o', color='blue')
+        
+        plt.title('Daily Volume Trend for BBCA')
+        plt.xlabel('Date')
+        plt.ylabel('Average Daily Volume')
+        plt.grid(True)
+        plt.tight_layout()
+        
+        # Export image
+        link_path = f'./assets/volume_analysis_{date_range}.png'
+        plt.savefig(link_path)
+        print(f"Plot saved to '{link_path}'")
+
+
+    def price_and_percent(self):
+        stock_data = self.df.copy()
+        stock_data['Percent Change'] = stock_data['Previous'].pct_change() * 100
+        
+        plt.figure(figsize=(12, 6))
+        plt.hist(stock_data['Percent Change'].dropna(), bins=30, color='orange', alpha=0.7)
+        plt.title('Percent Change Distribution for BBCA')
+        plt.xlabel('Percent Change (%)')
+        plt.ylabel('Frequency')
+
+        # Display the plot
+        plt.tight_layout()
+        
+        # Export image
+        link_path = f'./assets/price_percent_change.png'
+        plt.savefig(link_path)
+        print(f"Plot saved to '{link_path}'")
+
+
 
         
