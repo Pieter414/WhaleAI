@@ -5,9 +5,10 @@ class Main:
         self.visual = Visual("./dataset/bca.csv")
 
     def run(self):
-        self.visual.time_series(20)
-        self.visual.time_series(20, 'week')
-        self.visual.time_series(20, 'year')
+        # self.visual.time_series(20)
+        # self.visual.time_series(3, 'week')
+        # self.visual.time_series(10, 'year')
+        self.visual.monthly_average()
 
 
 if __name__ == "__main__":
