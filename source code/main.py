@@ -1,21 +1,17 @@
 from visual import Visual
-import pandas as pd
-import numpy as np
 
 class Main:
     def __init__(self) -> None:
-        self.visual = None
-        pass
+        self.visual = Visual("./dataset/bca.csv")
 
-    def insert_data(self, link):
-        self.visual = Visual(link)
-        print(self.visual.time_series())
-        return
-    
+    def run(self):
+        self.visual.time_series(20)
+        self.visual.time_series(20, 'week')
+        self.visual.time_series(20, 'year')
+
 
 if __name__ == "__main__":
-    main = Main()
-    main.insert_data("./dataset/bca.csv")
+    Main().run()
 
 
 
