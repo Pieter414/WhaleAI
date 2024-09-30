@@ -15,8 +15,24 @@ class Main:
         pass
 
 
+class Main2:
+    def __init__(self) -> None:
+        self.visual = Visual("./dataset/tkm.csv")
+
+
+    def run(self):
+        self.visual.time_series(20)
+        self.visual.time_series(3, 'week')
+        self.visual.time_series(10, 'year')
+        self.visual.monthly_average()
+        self.visual.volume_analysis('all')
+        self.visual.volume_analysis('year')
+        self.visual.volume_analysis('week')
+        self.visual.price_and_percent()
+        pass
+
 if __name__ == "__main__":
-    Main().run()
+    Main2().run()
 
 
 

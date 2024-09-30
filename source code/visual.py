@@ -12,7 +12,7 @@ class Visual(Data):
     # Export time-series data based on time and moving average 
     def time_series(self, mv=20, date_range="all"):
         stock_data = self.df.copy()
-        stock_data[f'{mv}-day SMA'] = stock_data['Previous'].rolling(window=mv).mean()
+        stock_data[f'{mv}-day SMA'] = stock_data['Close'].rolling(window=mv).mean()
 
         # Filter data berdasarkan range waktunya
         today = pd.Timestamp.now()
@@ -22,15 +22,15 @@ class Visual(Data):
         elif date_range == 'week':
             start_date = today - pd.DateOffset(weeks=1)
         elif date_range == 'all':
-            start_date = stock_data['Last Trading Date'].min()  # Use the earliest date if no range specified
+            start_date = stock_data['Date'].min()  # Use the earliest date if no range specified
 
-        stock_data = stock_data[stock_data['Last Trading Date'] >= start_date]
+        stock_data = stock_data[stock_data['Date'] >= start_date]
 
 
         # Plot garis data yang difilter dengan moving average
         plt.figure(figsize=(10, 6))
-        plt.plot(stock_data['Last Trading Date'], stock_data['Previous'], label='Closing Price')
-        plt.plot(stock_data['Last Trading Date'], stock_data[f'{mv}-day SMA'], label=f'{mv}-day SMA', linestyle='--')
+        plt.plot(stock_data['Date'], stock_data['Close'], label='Closing Price')
+        plt.plot(stock_data['Date'], stock_data[f'{mv}-day SMA'], label=f'{mv}-day SMA', linestyle='--')
 
         plt.title(f'Stock Closing Price and {mv}-day SMA - Last {date_range.capitalize()}')
         plt.xlabel('Date')
@@ -48,7 +48,7 @@ class Visual(Data):
     # Historic monthly price change over the years
     def monthly_average(self):
         stock_data = self.df.copy()
-        monthly_price_change = stock_data.groupby(['Year', 'Month'])['Previous'].mean().pct_change() * 100
+        monthly_price_change = stock_data.groupby(['Year', 'Month'])['Close'].mean().pct_change() * 100
 
         # Pivot data jadi tabel tahun dan bulan dan melihat pct_change()
         price_change_pivot = monthly_price_change.unstack()
@@ -69,7 +69,7 @@ class Visual(Data):
 
     def volume_analysis(self, date_range='all'):
         stock_data = self.df.copy()
-        daily_volume = stock_data.groupby('Last Trading Date')['Bid Volume'].mean().reset_index()
+        daily_volume = stock_data.groupby('Date')['Volume'].mean().reset_index()
 
         # Filter data berdasarkan range waktunya
         today = pd.Timestamp.now()
@@ -79,12 +79,12 @@ class Visual(Data):
         elif date_range == 'week':
             start_date = today - pd.DateOffset(weeks=1)
         elif date_range == 'all':
-            start_date = stock_data['Last Trading Date'].min()  # Use the earliest date if no range specified
+            start_date = stock_data['Date'].min()  # Use the earliest date if no range specified
 
-        daily_volume = daily_volume[daily_volume['Last Trading Date'] >= start_date]
+        daily_volume = daily_volume[daily_volume['Date'] >= start_date]
         
         plt.figure(figsize=(12, 6))
-        plt.plot(daily_volume['Last Trading Date'], daily_volume['Bid Volume'], marker='o', color='blue')
+        plt.plot(daily_volume['Date'], daily_volume['Volume'], marker='o', color='blue')
         
         plt.title('Daily Volume Trend for BBCA')
         plt.xlabel('Date')
@@ -100,7 +100,7 @@ class Visual(Data):
 
     def price_and_percent(self):
         stock_data = self.df.copy()
-        stock_data['Percent Change'] = stock_data['Previous'].pct_change() * 100
+        stock_data['Percent Change'] = stock_data['Close'].pct_change() * 100
         
         plt.figure(figsize=(12, 6))
         plt.hist(stock_data['Percent Change'].dropna(), bins=30, color='orange', alpha=0.7)

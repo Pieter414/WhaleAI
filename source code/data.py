@@ -10,13 +10,13 @@ class Data:
 
     def _clean_data(self):
         # Perbaikan format tanggal
-        self.df['Last Trading Date'] = self.df['Last Trading Date'].str.replace('Agt', 'Aug').str.replace('Mei', 'May')
-        self.df['Last Trading Date'] = pd.to_datetime(self.df['Last Trading Date'], format='%d %b %Y')
+        self.df["Date"] = self.df["Date"].str.replace('Agt', 'Aug').str.replace('Mei', 'May')
+        self.df["Date"] = pd.to_datetime(self.df["Date"], format='%d %b %Y')
         
         # Sort values dari tanggal
-        self.df = self.df.sort_values(by='Last Trading Date')
+        self.df = self.df.sort_values(by="Date")
 
 
     def _datetime_extract(self):
-        self.df['Year'] = self.df['Last Trading Date'].dt.year
-        self.df['Month'] = self.df['Last Trading Date'].dt.month
+        self.df['Year'] = self.df["Date"].dt.year
+        self.df['Month'] = self.df["Date"].dt.month
