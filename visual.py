@@ -128,7 +128,7 @@ class Visual(Data):
 
         # Create a histogram of percent changes with a fine precision
         plt.figure(figsize=(10, 6))
-        plt.hist(stock_data['Close_Pct_Change'], bins=100, color='steelblue', alpha=0.7)
+        plt.hist(stock_data['Close_Pct_Change'], bins=100, color='blue', alpha=0.7)
 
         # Add title and labels
         plt.title(f'Price and Percent Change Overview - Last {date_range.capitalize()}', fontsize=14)
