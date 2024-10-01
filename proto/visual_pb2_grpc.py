@@ -51,7 +51,7 @@ class VisualServiceStub(object):
                 _registered_method=True)
         self.GeneratePriceAndPercent = channel.unary_unary(
                 '/VisualService/GeneratePriceAndPercent',
-                request_serializer=proto_dot_visual__pb2.DatasetRequest.SerializeToString,
+                request_serializer=proto_dot_visual__pb2.PriceAndPercentRequest.SerializeToString,
                 response_deserializer=proto_dot_visual__pb2.ImageResponse.FromString,
                 _registered_method=True)
 
@@ -103,7 +103,7 @@ def add_VisualServiceServicer_to_server(servicer, server):
             ),
             'GeneratePriceAndPercent': grpc.unary_unary_rpc_method_handler(
                     servicer.GeneratePriceAndPercent,
-                    request_deserializer=proto_dot_visual__pb2.DatasetRequest.FromString,
+                    request_deserializer=proto_dot_visual__pb2.PriceAndPercentRequest.FromString,
                     response_serializer=proto_dot_visual__pb2.ImageResponse.SerializeToString,
             ),
     }
@@ -213,7 +213,7 @@ class VisualService(object):
             request,
             target,
             '/VisualService/GeneratePriceAndPercent',
-            proto_dot_visual__pb2.DatasetRequest.SerializeToString,
+            proto_dot_visual__pb2.PriceAndPercentRequest.SerializeToString,
             proto_dot_visual__pb2.ImageResponse.FromString,
             options,
             channel_credentials,

@@ -70,10 +70,10 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the price and percent change image
-        visual.price_and_percent()
+        visual.price_and_percent(date_range=request.data_range)
 
         # Read the saved image file as binary
-        with open('./assets/price_percent_change.png', 'rb') as image_file:
+        with open(f'./assets/price_percent_change_{request.data_range}.png', 'rb') as image_file:
             image_data = image_file.read()
 
         # Return the image data in the gRPC response

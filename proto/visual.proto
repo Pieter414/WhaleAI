@@ -6,7 +6,7 @@ service VisualService {
     rpc GenerateTimeSeries (TimeSeriesRequest) returns (ImageResponse);
     rpc GenerateMonthlyAverage (DatasetRequest) returns (ImageResponse);
     rpc GenerateVolumeAnalysis (VolumeAnalysisRequest) returns (ImageResponse);
-    rpc GeneratePriceAndPercent (DatasetRequest) returns (ImageResponse);
+    rpc GeneratePriceAndPercent (PriceAndPercentRequest) returns (ImageResponse);
 }
 
 message TimeSeriesRequest {
@@ -16,6 +16,11 @@ message TimeSeriesRequest {
 }
 
 message VolumeAnalysisRequest {
+    string dataset = 1;
+    string data_range = 2;
+}
+
+message PriceAndPercentRequest {
     string dataset = 1;
     string data_range = 2;
 }
