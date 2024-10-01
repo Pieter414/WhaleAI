@@ -17,12 +17,16 @@ class Visual(Data):
         # Filter data berdasarkan range waktunya
         today = pd.Timestamp.now()
 
-        if date_range == 'year':
+        if date_range == '5 year':
+            start_date = today - pd.DateOffset(years=5)
+        elif date_range == 'year':
             start_date = today - pd.DateOffset(years=1)
+        elif date_range == 'month':
+            start_date = today - pd.DateOffset(months=1)
         elif date_range == 'week':
             start_date = today - pd.DateOffset(weeks=1)
         elif date_range == 'all':
-            start_date = stock_data['Date'].min()  # Use the earliest date if no range specified
+            start_date = stock_data['Date'].min() 
 
         stock_data = stock_data[stock_data['Date'] >= start_date]
 
@@ -74,12 +78,16 @@ class Visual(Data):
         # Filter data berdasarkan range waktunya
         today = pd.Timestamp.now()
 
-        if date_range == 'year':
+        if date_range == '5 year':
+            start_date = today - pd.DateOffset(years=5)
+        elif date_range == 'year':
             start_date = today - pd.DateOffset(years=1)
+        elif date_range == 'month':
+            start_date = today - pd.DateOffset(months=1)
         elif date_range == 'week':
             start_date = today - pd.DateOffset(weeks=1)
         elif date_range == 'all':
-            start_date = stock_data['Date'].min()  # Use the earliest date if no range specified
+            start_date = stock_data['Date'].min() 
 
         daily_volume = daily_volume[daily_volume['Date'] >= start_date]
         
