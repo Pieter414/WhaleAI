@@ -34,7 +34,12 @@ class Main2:
         self.visual.volume_analysis('year')
         self.visual.volume_analysis('month')
         self.visual.volume_analysis('week')
+
         self.visual.price_and_percent()
+        self.visual.price_and_percent('5 year')
+        self.visual.price_and_percent('year')
+        self.visual.price_and_percent('month')
+        self.visual.price_and_percent('week')
         pass
 
 if __name__ == "__main__":

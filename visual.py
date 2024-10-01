@@ -75,7 +75,6 @@ class Visual(Data):
         stock_data = self.df.copy()
         daily_volume = stock_data.groupby('Date')['Volume'].mean().reset_index()
 
-        # Filter data berdasarkan range waktunya
         today = pd.Timestamp.now()
 
         if date_range == '5 year':
@@ -94,7 +93,7 @@ class Visual(Data):
         plt.figure(figsize=(12, 6))
         plt.plot(daily_volume['Date'], daily_volume['Volume'], marker='o', color='blue')
         
-        plt.title('Daily Volume Trend for BBCA')
+        plt.title(f'Volume Trend for BBCA - Last {date_range.capitalize()}')
         plt.xlabel('Date')
         plt.ylabel('Average Daily Volume')
         plt.grid(True)
@@ -106,21 +105,39 @@ class Visual(Data):
         print(f"Plot saved to '{link_path}'")
 
 
-    def price_and_percent(self):
+    def price_and_percent(self, date_range='all'):
         stock_data = self.df.copy()
-        stock_data['Percent Change'] = stock_data['Close'].pct_change() * 100
-        
-        plt.figure(figsize=(12, 6))
-        plt.hist(stock_data['Percent Change'].dropna(), bins=30, color='orange', alpha=0.7)
-        plt.title('Percent Change Distribution for BBCA')
-        plt.xlabel('Percent Change (%)')
-        plt.ylabel('Frequency')
+        stock_data['Close_Pct_Change'] = stock_data['Close'].pct_change()
 
-        # Display the plot
-        plt.tight_layout()
-        
+        # Set up precision for better spread
+        stock_data['Close_Pct_Change'] = stock_data['Close_Pct_Change'].round(6)
+
+        today = pd.Timestamp.now()
+        if date_range == '5 year':
+            start_date = today - pd.DateOffset(years=5)
+        elif date_range == 'year':
+            start_date = today - pd.DateOffset(years=1)
+        elif date_range == 'month':
+            start_date = today - pd.DateOffset(months=1)
+        elif date_range == 'week':
+            start_date = today - pd.DateOffset(weeks=1)
+        elif date_range == 'all':
+            start_date = stock_data['Date'].min() 
+
+        stock_data = stock_data[stock_data['Date'] >= start_date]
+
+        # Create a histogram of percent changes with a fine precision
+        plt.figure(figsize=(10, 6))
+        plt.hist(stock_data['Close_Pct_Change'], bins=100, color='steelblue', alpha=0.7)
+
+        # Add title and labels
+        plt.title(f'Price and Percent Change Overview - Last {date_range.capitalize()}', fontsize=14)
+        plt.xlabel('Percent change in price (%)', fontsize=12)
+        plt.ylabel('Frequency', fontsize=12)
+        plt.grid(True)
+
         # Export image
-        link_path = f'./assets/price_percent_change.png'
+        link_path = f'./assets/price_percent_change_{date_range}.png'
         plt.savefig(link_path)
         print(f"Plot saved to '{link_path}'")
 
