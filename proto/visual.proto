@@ -12,17 +12,17 @@ service VisualService {
 message TimeSeriesRequest {
     string dataset = 1;
     int32 mv = 2;
-    string data_range = 3;
+    string date_range = 3;
 }
 
 message VolumeAnalysisRequest {
     string dataset = 1;
-    string data_range = 2;
+    string date_range = 2;
 }
 
 message PriceAndPercentRequest {
     string dataset = 1;
-    string data_range = 2;
+    string date_range = 2;
 }
 
 message DatasetRequest {

@@ -28,10 +28,10 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the time series image
-        visual.time_series(mv=request.mv, date_range=request.data_range)
+        visual.time_series(mv=request.mv, date_range=request.date_range)
 
         # Read the saved image file as binary
-        with open(f'./assets/time_series_{request.data_range}.png', 'rb') as image_file:
+        with open(f'./assets/time_series_{request.date_range}.png', 'rb') as image_file:
             image_data = image_file.read()
 
         # Return the image data in the gRPC response
@@ -42,10 +42,10 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the volume analysis image
-        visual.volume_analysis(date_range=request.data_range)
+        visual.volume_analysis(date_range=request.date_range)
 
         # Read the saved image file as binary
-        with open(f'./assets/volume_analysis_{request.data_range}.png', 'rb') as image_file:
+        with open(f'./assets/volume_analysis_{request.date_range}.png', 'rb') as image_file:
             image_data = image_file.read()
 
         # Return the image data in the gRPC response
@@ -70,10 +70,10 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the price and percent change image
-        visual.price_and_percent(date_range=request.data_range)
+        visual.price_and_percent(date_range=request.date_range)
 
         # Read the saved image file as binary
-        with open(f'./assets/price_percent_change_{request.data_range}.png', 'rb') as image_file:
+        with open(f'./assets/price_percent_change_{request.date_range}.png', 'rb') as image_file:
             image_data = image_file.read()
 
         # Return the image data in the gRPC response
