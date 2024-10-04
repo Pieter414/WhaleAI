@@ -1,0 +1,5972 @@
+[
+    {
+        "Date": "2022-04-11",
+        "Open": 400.0,
+        "High": 416.0,
+        "Low": 372.0,
+        "Close": 382.0,
+        "Volume": 9410897000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-12",
+        "Open": 422.0,
+        "High": 442.0,
+        "Low": 360.0,
+        "Close": 370.0,
+        "Volume": 3887331000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-13",
+        "Open": 370.0,
+        "High": 380.0,
+        "Low": 360.0,
+        "Close": 374.0,
+        "Volume": 3262811400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-14",
+        "Open": 374.0,
+        "High": 382.0,
+        "Low": 374.0,
+        "Close": 376.0,
+        "Volume": 3675981900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-18",
+        "Open": 376.0,
+        "High": 380.0,
+        "Low": 370.0,
+        "Close": 378.0,
+        "Volume": 2660312700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-19",
+        "Open": 378.0,
+        "High": 380.0,
+        "Low": 358.0,
+        "Close": 358.0,
+        "Volume": 2252971800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-20",
+        "Open": 358.0,
+        "High": 364.0,
+        "Low": 338.0,
+        "Close": 338.0,
+        "Volume": 5804281200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-21",
+        "Open": 340.0,
+        "High": 340.0,
+        "Low": 336.0,
+        "Close": 340.0,
+        "Volume": 1670584600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-22",
+        "Open": 340.0,
+        "High": 340.0,
+        "Low": 330.0,
+        "Close": 340.0,
+        "Volume": 6075753400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-25",
+        "Open": 318.0,
+        "High": 338.0,
+        "Low": 318.0,
+        "Close": 328.0,
+        "Volume": 1960587900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-26",
+        "Open": 348.0,
+        "High": 348.0,
+        "Low": 308.0,
+        "Close": 310.0,
+        "Volume": 1843997100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-27",
+        "Open": 300.0,
+        "High": 310.0,
+        "Low": 290.0,
+        "Close": 290.0,
+        "Volume": 2077577300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-04-28",
+        "Open": 270.0,
+        "High": 290.0,
+        "Low": 270.0,
+        "Close": 272.0,
+        "Volume": 2280309800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-09",
+        "Open": 254.0,
+        "High": 270.0,
+        "Low": 254.0,
+        "Close": 254.0,
+        "Volume": 621345600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-10",
+        "Open": 254.0,
+        "High": 254.0,
+        "Low": 238.0,
+        "Close": 238.0,
+        "Volume": 201334400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-11",
+        "Open": 224.0,
+        "High": 238.0,
+        "Low": 222.0,
+        "Close": 222.0,
+        "Volume": 2942404500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-12",
+        "Open": 212.0,
+        "High": 220.0,
+        "Low": 208.0,
+        "Close": 208.0,
+        "Volume": 312982800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-13",
+        "Open": 200.0,
+        "High": 200.0,
+        "Low": 194.0,
+        "Close": 194.0,
+        "Volume": 407286800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-17",
+        "Open": 187.0,
+        "High": 224.0,
+        "Low": 181.0,
+        "Close": 200.0,
+        "Volume": 3671507800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-18",
+        "Open": 186.0,
+        "High": 250.0,
+        "Low": 186.0,
+        "Close": 248.0,
+        "Volume": 4266865400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-19",
+        "Open": 232.0,
+        "High": 292.0,
+        "Low": 232.0,
+        "Close": 280.0,
+        "Volume": 7571482600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-20",
+        "Open": 262.0,
+        "High": 314.0,
+        "Low": 262.0,
+        "Close": 304.0,
+        "Volume": 4241679500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-23",
+        "Open": 324.0,
+        "High": 324.0,
+        "Low": 286.0,
+        "Close": 296.0,
+        "Volume": 4968873700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-24",
+        "Open": 276.0,
+        "High": 312.0,
+        "Low": 276.0,
+        "Close": 302.0,
+        "Volume": 4221223100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-25",
+        "Open": 300.0,
+        "High": 310.0,
+        "Low": 290.0,
+        "Close": 304.0,
+        "Volume": 3111550600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-27",
+        "Open": 304.0,
+        "High": 314.0,
+        "Low": 300.0,
+        "Close": 312.0,
+        "Volume": 3009337300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-30",
+        "Open": 318.0,
+        "High": 318.0,
+        "Low": 308.0,
+        "Close": 314.0,
+        "Volume": 3448044600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-05-31",
+        "Open": 314.0,
+        "High": 314.0,
+        "Low": 300.0,
+        "Close": 304.0,
+        "Volume": 2072919200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-02",
+        "Open": 344.0,
+        "High": 346.0,
+        "Low": 304.0,
+        "Close": 344.0,
+        "Volume": 5638486100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-03",
+        "Open": 364.0,
+        "High": 364.0,
+        "Low": 342.0,
+        "Close": 354.0,
+        "Volume": 3103587800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-06",
+        "Open": 352.0,
+        "High": 358.0,
+        "Low": 330.0,
+        "Close": 330.0,
+        "Volume": 3429231900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-07",
+        "Open": 310.0,
+        "High": 370.0,
+        "Low": 310.0,
+        "Close": 364.0,
+        "Volume": 7097558600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-08",
+        "Open": 362.0,
+        "High": 390.0,
+        "Low": 350.0,
+        "Close": 378.0,
+        "Volume": 6461195500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-09",
+        "Open": 378.0,
+        "High": 404.0,
+        "Low": 370.0,
+        "Close": 384.0,
+        "Volume": 6857099000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-10",
+        "Open": 384.0,
+        "High": 398.0,
+        "Low": 370.0,
+        "Close": 386.0,
+        "Volume": 4737100100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-13",
+        "Open": 378.0,
+        "High": 390.0,
+        "Low": 370.0,
+        "Close": 388.0,
+        "Volume": 4416773900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-14",
+        "Open": 382.0,
+        "High": 400.0,
+        "Low": 382.0,
+        "Close": 400.0,
+        "Volume": 4917375800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-15",
+        "Open": 400.0,
+        "High": 416.0,
+        "Low": 398.0,
+        "Close": 404.0,
+        "Volume": 3624954900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-16",
+        "Open": 408.0,
+        "High": 412.0,
+        "Low": 382.0,
+        "Close": 392.0,
+        "Volume": 3994392700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-17",
+        "Open": 390.0,
+        "High": 390.0,
+        "Low": 366.0,
+        "Close": 366.0,
+        "Volume": 2749644800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-20",
+        "Open": 366.0,
+        "High": 376.0,
+        "Low": 344.0,
+        "Close": 370.0,
+        "Volume": 4244450500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-21",
+        "Open": 374.0,
+        "High": 380.0,
+        "Low": 362.0,
+        "Close": 378.0,
+        "Volume": 2290207400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-22",
+        "Open": 382.0,
+        "High": 386.0,
+        "Low": 370.0,
+        "Close": 380.0,
+        "Volume": 1834331100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-23",
+        "Open": 380.0,
+        "High": 384.0,
+        "Low": 374.0,
+        "Close": 380.0,
+        "Volume": 1406469400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-24",
+        "Open": 380.0,
+        "High": 402.0,
+        "Low": 378.0,
+        "Close": 392.0,
+        "Volume": 3220565000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-27",
+        "Open": 396.0,
+        "High": 400.0,
+        "Low": 384.0,
+        "Close": 394.0,
+        "Volume": 1513413700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-28",
+        "Open": 394.0,
+        "High": 394.0,
+        "Low": 384.0,
+        "Close": 392.0,
+        "Volume": 899052600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-29",
+        "Open": 388.0,
+        "High": 398.0,
+        "Low": 384.0,
+        "Close": 390.0,
+        "Volume": 968133900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-06-30",
+        "Open": 390.0,
+        "High": 394.0,
+        "Low": 380.0,
+        "Close": 388.0,
+        "Volume": 917267800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-01",
+        "Open": 388.0,
+        "High": 390.0,
+        "Low": 362.0,
+        "Close": 370.0,
+        "Volume": 1099867400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-04",
+        "Open": 370.0,
+        "High": 370.0,
+        "Low": 346.0,
+        "Close": 346.0,
+        "Volume": 705938600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-05",
+        "Open": 346.0,
+        "High": 350.0,
+        "Low": 332.0,
+        "Close": 334.0,
+        "Volume": 1573844700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-06",
+        "Open": 330.0,
+        "High": 342.0,
+        "Low": 320.0,
+        "Close": 324.0,
+        "Volume": 1129407400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-07",
+        "Open": 324.0,
+        "High": 340.0,
+        "Low": 324.0,
+        "Close": 338.0,
+        "Volume": 1074824400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-08",
+        "Open": 344.0,
+        "High": 354.0,
+        "Low": 342.0,
+        "Close": 350.0,
+        "Volume": 1241855000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-11",
+        "Open": 354.0,
+        "High": 354.0,
+        "Low": 334.0,
+        "Close": 338.0,
+        "Volume": 840928300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-12",
+        "Open": 338.0,
+        "High": 338.0,
+        "Low": 330.0,
+        "Close": 330.0,
+        "Volume": 802215500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-13",
+        "Open": 330.0,
+        "High": 330.0,
+        "Low": 320.0,
+        "Close": 324.0,
+        "Volume": 870421000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-14",
+        "Open": 324.0,
+        "High": 336.0,
+        "Low": 320.0,
+        "Close": 332.0,
+        "Volume": 786358600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-15",
+        "Open": 332.0,
+        "High": 336.0,
+        "Low": 320.0,
+        "Close": 320.0,
+        "Volume": 998698500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-18",
+        "Open": 320.0,
+        "High": 328.0,
+        "Low": 298.0,
+        "Close": 298.0,
+        "Volume": 1199187000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-19",
+        "Open": 304.0,
+        "High": 316.0,
+        "Low": 286.0,
+        "Close": 302.0,
+        "Volume": 1378449800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-20",
+        "Open": 306.0,
+        "High": 314.0,
+        "Low": 304.0,
+        "Close": 308.0,
+        "Volume": 973012900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-21",
+        "Open": 308.0,
+        "High": 310.0,
+        "Low": 300.0,
+        "Close": 300.0,
+        "Volume": 471674900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-22",
+        "Open": 300.0,
+        "High": 310.0,
+        "Low": 300.0,
+        "Close": 308.0,
+        "Volume": 901187400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-25",
+        "Open": 308.0,
+        "High": 312.0,
+        "Low": 300.0,
+        "Close": 300.0,
+        "Volume": 623353800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-26",
+        "Open": 300.0,
+        "High": 304.0,
+        "Low": 292.0,
+        "Close": 292.0,
+        "Volume": 793320900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-27",
+        "Open": 294.0,
+        "High": 300.0,
+        "Low": 288.0,
+        "Close": 294.0,
+        "Volume": 912067900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-28",
+        "Open": 300.0,
+        "High": 310.0,
+        "Low": 296.0,
+        "Close": 306.0,
+        "Volume": 1342198000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-07-29",
+        "Open": 308.0,
+        "High": 310.0,
+        "Low": 296.0,
+        "Close": 296.0,
+        "Volume": 692858200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-01",
+        "Open": 298.0,
+        "High": 302.0,
+        "Low": 284.0,
+        "Close": 286.0,
+        "Volume": 763215700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-02",
+        "Open": 288.0,
+        "High": 292.0,
+        "Low": 280.0,
+        "Close": 286.0,
+        "Volume": 499654100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-03",
+        "Open": 286.0,
+        "High": 298.0,
+        "Low": 284.0,
+        "Close": 296.0,
+        "Volume": 505564700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-04",
+        "Open": 300.0,
+        "High": 304.0,
+        "Low": 296.0,
+        "Close": 296.0,
+        "Volume": 685966500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-05",
+        "Open": 298.0,
+        "High": 304.0,
+        "Low": 292.0,
+        "Close": 296.0,
+        "Volume": 404408400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-08",
+        "Open": 296.0,
+        "High": 300.0,
+        "Low": 282.0,
+        "Close": 282.0,
+        "Volume": 695393800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-09",
+        "Open": 282.0,
+        "High": 286.0,
+        "Low": 274.0,
+        "Close": 280.0,
+        "Volume": 549107900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-10",
+        "Open": 282.0,
+        "High": 286.0,
+        "Low": 276.0,
+        "Close": 280.0,
+        "Volume": 378601800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-11",
+        "Open": 290.0,
+        "High": 300.0,
+        "Low": 288.0,
+        "Close": 296.0,
+        "Volume": 759510500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-12",
+        "Open": 298.0,
+        "High": 298.0,
+        "Low": 290.0,
+        "Close": 292.0,
+        "Volume": 281931400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-15",
+        "Open": 292.0,
+        "High": 298.0,
+        "Low": 288.0,
+        "Close": 294.0,
+        "Volume": 324300800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-16",
+        "Open": 292.0,
+        "High": 326.0,
+        "Low": 292.0,
+        "Close": 324.0,
+        "Volume": 1630048400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-18",
+        "Open": 326.0,
+        "High": 340.0,
+        "Low": 316.0,
+        "Close": 334.0,
+        "Volume": 1467786100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-19",
+        "Open": 334.0,
+        "High": 344.0,
+        "Low": 332.0,
+        "Close": 334.0,
+        "Volume": 819289600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-22",
+        "Open": 332.0,
+        "High": 332.0,
+        "Low": 316.0,
+        "Close": 320.0,
+        "Volume": 731674300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-23",
+        "Open": 322.0,
+        "High": 336.0,
+        "Low": 322.0,
+        "Close": 326.0,
+        "Volume": 533231400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-24",
+        "Open": 330.0,
+        "High": 334.0,
+        "Low": 324.0,
+        "Close": 328.0,
+        "Volume": 317306600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-25",
+        "Open": 328.0,
+        "High": 332.0,
+        "Low": 320.0,
+        "Close": 326.0,
+        "Volume": 359738000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-26",
+        "Open": 326.0,
+        "High": 330.0,
+        "Low": 318.0,
+        "Close": 318.0,
+        "Volume": 307009800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-29",
+        "Open": 302.0,
+        "High": 320.0,
+        "Low": 300.0,
+        "Close": 320.0,
+        "Volume": 452164000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-30",
+        "Open": 320.0,
+        "High": 334.0,
+        "Low": 314.0,
+        "Close": 324.0,
+        "Volume": 569989200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-08-31",
+        "Open": 316.0,
+        "High": 316.0,
+        "Low": 302.0,
+        "Close": 302.0,
+        "Volume": 1150395400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-01",
+        "Open": 300.0,
+        "High": 300.0,
+        "Low": 288.0,
+        "Close": 290.0,
+        "Volume": 604813200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-02",
+        "Open": 292.0,
+        "High": 298.0,
+        "Low": 284.0,
+        "Close": 284.0,
+        "Volume": 569390900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-05",
+        "Open": 284.0,
+        "High": 292.0,
+        "Low": 280.0,
+        "Close": 282.0,
+        "Volume": 551653400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-06",
+        "Open": 286.0,
+        "High": 290.0,
+        "Low": 282.0,
+        "Close": 282.0,
+        "Volume": 418847200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-07",
+        "Open": 282.0,
+        "High": 294.0,
+        "Low": 280.0,
+        "Close": 282.0,
+        "Volume": 1078750900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-08",
+        "Open": 286.0,
+        "High": 292.0,
+        "Low": 284.0,
+        "Close": 286.0,
+        "Volume": 1297537200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-09",
+        "Open": 288.0,
+        "High": 290.0,
+        "Low": 278.0,
+        "Close": 282.0,
+        "Volume": 722741900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-12",
+        "Open": 284.0,
+        "High": 286.0,
+        "Low": 276.0,
+        "Close": 278.0,
+        "Volume": 722425300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-13",
+        "Open": 280.0,
+        "High": 284.0,
+        "Low": 276.0,
+        "Close": 276.0,
+        "Volume": 646000200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-14",
+        "Open": 272.0,
+        "High": 278.0,
+        "Low": 268.0,
+        "Close": 272.0,
+        "Volume": 942221600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-15",
+        "Open": 274.0,
+        "High": 276.0,
+        "Low": 266.0,
+        "Close": 266.0,
+        "Volume": 1309751800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-16",
+        "Open": 266.0,
+        "High": 266.0,
+        "Low": 248.0,
+        "Close": 248.0,
+        "Volume": 1907902100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-19",
+        "Open": 248.0,
+        "High": 248.0,
+        "Low": 234.0,
+        "Close": 242.0,
+        "Volume": 1180390700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-20",
+        "Open": 244.0,
+        "High": 268.0,
+        "Low": 244.0,
+        "Close": 266.0,
+        "Volume": 1631009500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-21",
+        "Open": 268.0,
+        "High": 272.0,
+        "Low": 256.0,
+        "Close": 264.0,
+        "Volume": 478347600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-22",
+        "Open": 260.0,
+        "High": 264.0,
+        "Low": 256.0,
+        "Close": 264.0,
+        "Volume": 316075300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-23",
+        "Open": 264.0,
+        "High": 266.0,
+        "Low": 260.0,
+        "Close": 264.0,
+        "Volume": 323786500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-26",
+        "Open": 258.0,
+        "High": 260.0,
+        "Low": 248.0,
+        "Close": 256.0,
+        "Volume": 769370300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-27",
+        "Open": 256.0,
+        "High": 258.0,
+        "Low": 250.0,
+        "Close": 252.0,
+        "Volume": 409587600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-28",
+        "Open": 252.0,
+        "High": 266.0,
+        "Low": 244.0,
+        "Close": 258.0,
+        "Volume": 658985500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-29",
+        "Open": 262.0,
+        "High": 264.0,
+        "Low": 248.0,
+        "Close": 250.0,
+        "Volume": 296437700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-09-30",
+        "Open": 250.0,
+        "High": 254.0,
+        "Low": 240.0,
+        "Close": 246.0,
+        "Volume": 803170900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-03",
+        "Open": 244.0,
+        "High": 246.0,
+        "Low": 236.0,
+        "Close": 238.0,
+        "Volume": 616023400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-04",
+        "Open": 240.0,
+        "High": 244.0,
+        "Low": 236.0,
+        "Close": 238.0,
+        "Volume": 549085500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-05",
+        "Open": 240.0,
+        "High": 244.0,
+        "Low": 236.0,
+        "Close": 242.0,
+        "Volume": 585580100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-06",
+        "Open": 246.0,
+        "High": 254.0,
+        "Low": 244.0,
+        "Close": 246.0,
+        "Volume": 927469300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-07",
+        "Open": 246.0,
+        "High": 254.0,
+        "Low": 240.0,
+        "Close": 244.0,
+        "Volume": 362853000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-10",
+        "Open": 240.0,
+        "High": 244.0,
+        "Low": 238.0,
+        "Close": 242.0,
+        "Volume": 207344500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-11",
+        "Open": 244.0,
+        "High": 244.0,
+        "Low": 228.0,
+        "Close": 228.0,
+        "Volume": 663946000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-12",
+        "Open": 226.0,
+        "High": 230.0,
+        "Low": 216.0,
+        "Close": 218.0,
+        "Volume": 723078400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-13",
+        "Open": 218.0,
+        "High": 226.0,
+        "Low": 212.0,
+        "Close": 212.0,
+        "Volume": 681890600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-14",
+        "Open": 218.0,
+        "High": 220.0,
+        "Low": 202.0,
+        "Close": 202.0,
+        "Volume": 820686500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-17",
+        "Open": 202.0,
+        "High": 220.0,
+        "Low": 200.0,
+        "Close": 208.0,
+        "Volume": 1004378600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-18",
+        "Open": 212.0,
+        "High": 216.0,
+        "Low": 204.0,
+        "Close": 206.0,
+        "Volume": 633648100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-19",
+        "Open": 208.0,
+        "High": 210.0,
+        "Low": 202.0,
+        "Close": 204.0,
+        "Volume": 469606700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-20",
+        "Open": 204.0,
+        "High": 216.0,
+        "Low": 202.0,
+        "Close": 206.0,
+        "Volume": 1457661900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-21",
+        "Open": 208.0,
+        "High": 212.0,
+        "Low": 200.0,
+        "Close": 200.0,
+        "Volume": 757002500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-24",
+        "Open": 202.0,
+        "High": 204.0,
+        "Low": 190.0,
+        "Close": 190.0,
+        "Volume": 1350719400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-25",
+        "Open": 190.0,
+        "High": 196.0,
+        "Low": 183.0,
+        "Close": 193.0,
+        "Volume": 1586468900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-26",
+        "Open": 194.0,
+        "High": 204.0,
+        "Low": 194.0,
+        "Close": 197.0,
+        "Volume": 1716782100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-27",
+        "Open": 199.0,
+        "High": 202.0,
+        "Low": 193.0,
+        "Close": 198.0,
+        "Volume": 871228300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-28",
+        "Open": 199.0,
+        "High": 200.0,
+        "Low": 189.0,
+        "Close": 189.0,
+        "Volume": 722541000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-10-31",
+        "Open": 192.0,
+        "High": 193.0,
+        "Low": 186.0,
+        "Close": 186.0,
+        "Volume": 710166900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-01",
+        "Open": 187.0,
+        "High": 190.0,
+        "Low": 183.0,
+        "Close": 184.0,
+        "Volume": 509600800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-02",
+        "Open": 185.0,
+        "High": 195.0,
+        "Low": 184.0,
+        "Close": 195.0,
+        "Volume": 862237100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-03",
+        "Open": 195.0,
+        "High": 206.0,
+        "Low": 190.0,
+        "Close": 200.0,
+        "Volume": 1695523200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-04",
+        "Open": 204.0,
+        "High": 208.0,
+        "Low": 198.0,
+        "Close": 200.0,
+        "Volume": 734140700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-07",
+        "Open": 202.0,
+        "High": 204.0,
+        "Low": 191.0,
+        "Close": 197.0,
+        "Volume": 563929600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-08",
+        "Open": 197.0,
+        "High": 199.0,
+        "Low": 194.0,
+        "Close": 194.0,
+        "Volume": 283015000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-09",
+        "Open": 195.0,
+        "High": 202.0,
+        "Low": 194.0,
+        "Close": 199.0,
+        "Volume": 606657100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-10",
+        "Open": 198.0,
+        "High": 202.0,
+        "Low": 186.0,
+        "Close": 188.0,
+        "Volume": 1244264600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-11",
+        "Open": 198.0,
+        "High": 214.0,
+        "Low": 192.0,
+        "Close": 210.0,
+        "Volume": 2048184500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-14",
+        "Open": 210.0,
+        "High": 214.0,
+        "Low": 202.0,
+        "Close": 204.0,
+        "Volume": 718525700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-15",
+        "Open": 206.0,
+        "High": 208.0,
+        "Low": 200.0,
+        "Close": 204.0,
+        "Volume": 541628500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-16",
+        "Open": 212.0,
+        "High": 218.0,
+        "Low": 202.0,
+        "Close": 218.0,
+        "Volume": 1271055100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-17",
+        "Open": 218.0,
+        "High": 218.0,
+        "Low": 210.0,
+        "Close": 214.0,
+        "Volume": 516263700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-18",
+        "Open": 216.0,
+        "High": 226.0,
+        "Low": 212.0,
+        "Close": 222.0,
+        "Volume": 1401184800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-21",
+        "Open": 220.0,
+        "High": 220.0,
+        "Low": 210.0,
+        "Close": 210.0,
+        "Volume": 970473000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-22",
+        "Open": 210.0,
+        "High": 210.0,
+        "Low": 196.0,
+        "Close": 196.0,
+        "Volume": 1594524700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-23",
+        "Open": 192.0,
+        "High": 198.0,
+        "Low": 190.0,
+        "Close": 191.0,
+        "Volume": 876202200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-24",
+        "Open": 193.0,
+        "High": 195.0,
+        "Low": 188.0,
+        "Close": 188.0,
+        "Volume": 676498700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-25",
+        "Open": 189.0,
+        "High": 191.0,
+        "Low": 183.0,
+        "Close": 185.0,
+        "Volume": 928443000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-28",
+        "Open": 185.0,
+        "High": 189.0,
+        "Low": 173.0,
+        "Close": 173.0,
+        "Volume": 1756591500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-29",
+        "Open": 173.0,
+        "High": 173.0,
+        "Low": 161.0,
+        "Close": 162.0,
+        "Volume": 1747506600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-11-30",
+        "Open": 159.0,
+        "High": 170.0,
+        "Low": 151.0,
+        "Close": 151.0,
+        "Volume": 3201332700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-01",
+        "Open": 141.0,
+        "High": 141.0,
+        "Low": 141.0,
+        "Close": 141.0,
+        "Volume": 465761900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-02",
+        "Open": 132.0,
+        "High": 132.0,
+        "Low": 132.0,
+        "Close": 132.0,
+        "Volume": 194519700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-05",
+        "Open": 123.0,
+        "High": 123.0,
+        "Low": 123.0,
+        "Close": 123.0,
+        "Volume": 172815100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-06",
+        "Open": 115.0,
+        "High": 115.0,
+        "Low": 115.0,
+        "Close": 115.0,
+        "Volume": 188696800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-07",
+        "Open": 107.0,
+        "High": 107.0,
+        "Low": 107.0,
+        "Close": 107.0,
+        "Volume": 248475200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-08",
+        "Open": 100.0,
+        "High": 100.0,
+        "Low": 100.0,
+        "Close": 100.0,
+        "Volume": 482718800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-09",
+        "Open": 93.0,
+        "High": 93.0,
+        "Low": 93.0,
+        "Close": 93.0,
+        "Volume": 280769900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-12",
+        "Open": 87.0,
+        "High": 87.0,
+        "Low": 87.0,
+        "Close": 87.0,
+        "Volume": 283769700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-13",
+        "Open": 81.0,
+        "High": 108.0,
+        "Low": 81.0,
+        "Close": 100.0,
+        "Volume": 26555346900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-14",
+        "Open": 102.0,
+        "High": 104.0,
+        "Low": 93.0,
+        "Close": 94.0,
+        "Volume": 8603484800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-15",
+        "Open": 94.0,
+        "High": 97.0,
+        "Low": 90.0,
+        "Close": 97.0,
+        "Volume": 3462893800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-16",
+        "Open": 95.0,
+        "High": 97.0,
+        "Low": 92.0,
+        "Close": 96.0,
+        "Volume": 2824421100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-19",
+        "Open": 95.0,
+        "High": 95.0,
+        "Low": 91.0,
+        "Close": 92.0,
+        "Volume": 2101922500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-20",
+        "Open": 92.0,
+        "High": 94.0,
+        "Low": 87.0,
+        "Close": 87.0,
+        "Volume": 3307702700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-21",
+        "Open": 89.0,
+        "High": 89.0,
+        "Low": 84.0,
+        "Close": 89.0,
+        "Volume": 2681076200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-22",
+        "Open": 90.0,
+        "High": 90.0,
+        "Low": 87.0,
+        "Close": 89.0,
+        "Volume": 1597245400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-23",
+        "Open": 89.0,
+        "High": 89.0,
+        "Low": 86.0,
+        "Close": 86.0,
+        "Volume": 1468730500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-26",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 81.0,
+        "Close": 82.0,
+        "Volume": 1796841400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-27",
+        "Open": 82.0,
+        "High": 91.0,
+        "Low": 82.0,
+        "Close": 91.0,
+        "Volume": 2664999700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-28",
+        "Open": 91.0,
+        "High": 92.0,
+        "Low": 89.0,
+        "Close": 91.0,
+        "Volume": 1870751400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-29",
+        "Open": 91.0,
+        "High": 99.0,
+        "Low": 90.0,
+        "Close": 97.0,
+        "Volume": 4103905500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2022-12-30",
+        "Open": 97.0,
+        "High": 97.0,
+        "Low": 91.0,
+        "Close": 91.0,
+        "Volume": 2801920800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-02",
+        "Open": 91.0,
+        "High": 94.0,
+        "Low": 91.0,
+        "Close": 93.0,
+        "Volume": 897258100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-03",
+        "Open": 93.0,
+        "High": 97.0,
+        "Low": 93.0,
+        "Close": 95.0,
+        "Volume": 2761729900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-04",
+        "Open": 95.0,
+        "High": 97.0,
+        "Low": 93.0,
+        "Close": 96.0,
+        "Volume": 1816437300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-05",
+        "Open": 96.0,
+        "High": 96.0,
+        "Low": 91.0,
+        "Close": 92.0,
+        "Volume": 1795026400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-06",
+        "Open": 92.0,
+        "High": 95.0,
+        "Low": 91.0,
+        "Close": 95.0,
+        "Volume": 802624500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-09",
+        "Open": 95.0,
+        "High": 96.0,
+        "Low": 91.0,
+        "Close": 93.0,
+        "Volume": 1911356800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-10",
+        "Open": 93.0,
+        "High": 96.0,
+        "Low": 92.0,
+        "Close": 95.0,
+        "Volume": 1876902000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-11",
+        "Open": 95.0,
+        "High": 96.0,
+        "Low": 93.0,
+        "Close": 94.0,
+        "Volume": 632614500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-12",
+        "Open": 95.0,
+        "High": 98.0,
+        "Low": 93.0,
+        "Close": 97.0,
+        "Volume": 2508642100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-13",
+        "Open": 97.0,
+        "High": 107.0,
+        "Low": 96.0,
+        "Close": 105.0,
+        "Volume": 6370530700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-16",
+        "Open": 105.0,
+        "High": 107.0,
+        "Low": 103.0,
+        "Close": 107.0,
+        "Volume": 3602544900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-17",
+        "Open": 108.0,
+        "High": 117.0,
+        "Low": 107.0,
+        "Close": 114.0,
+        "Volume": 7642543700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-18",
+        "Open": 115.0,
+        "High": 118.0,
+        "Low": 111.0,
+        "Close": 114.0,
+        "Volume": 4022915200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-19",
+        "Open": 113.0,
+        "High": 116.0,
+        "Low": 111.0,
+        "Close": 115.0,
+        "Volume": 2689869700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-20",
+        "Open": 116.0,
+        "High": 118.0,
+        "Low": 111.0,
+        "Close": 114.0,
+        "Volume": 4169642200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-24",
+        "Open": 115.0,
+        "High": 120.0,
+        "Low": 113.0,
+        "Close": 119.0,
+        "Volume": 6586988600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-25",
+        "Open": 119.0,
+        "High": 121.0,
+        "Low": 114.0,
+        "Close": 117.0,
+        "Volume": 5141106500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-26",
+        "Open": 115.0,
+        "High": 117.0,
+        "Low": 114.0,
+        "Close": 115.0,
+        "Volume": 2412800600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-27",
+        "Open": 115.0,
+        "High": 118.0,
+        "Low": 115.0,
+        "Close": 117.0,
+        "Volume": 2461734200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-30",
+        "Open": 117.0,
+        "High": 117.0,
+        "Low": 112.0,
+        "Close": 113.0,
+        "Volume": 1662060700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-01-31",
+        "Open": 111.0,
+        "High": 113.0,
+        "Low": 109.0,
+        "Close": 112.0,
+        "Volume": 2929808600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-01",
+        "Open": 112.0,
+        "High": 115.0,
+        "Low": 111.0,
+        "Close": 113.0,
+        "Volume": 1700371800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-02",
+        "Open": 115.0,
+        "High": 125.0,
+        "Low": 114.0,
+        "Close": 124.0,
+        "Volume": 6121060400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-03",
+        "Open": 125.0,
+        "High": 128.0,
+        "Low": 122.0,
+        "Close": 124.0,
+        "Volume": 4983617500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-06",
+        "Open": 124.0,
+        "High": 124.0,
+        "Low": 120.0,
+        "Close": 120.0,
+        "Volume": 1838131300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-07",
+        "Open": 120.0,
+        "High": 127.0,
+        "Low": 120.0,
+        "Close": 123.0,
+        "Volume": 3152141000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-08",
+        "Open": 124.0,
+        "High": 125.0,
+        "Low": 119.0,
+        "Close": 120.0,
+        "Volume": 2752037500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-09",
+        "Open": 121.0,
+        "High": 123.0,
+        "Low": 112.0,
+        "Close": 112.0,
+        "Volume": 4732017300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-10",
+        "Open": 105.0,
+        "High": 105.0,
+        "Low": 105.0,
+        "Close": 105.0,
+        "Volume": 803642100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-13",
+        "Open": 102.0,
+        "High": 117.0,
+        "Low": 102.0,
+        "Close": 116.0,
+        "Volume": 10381585300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-14",
+        "Open": 118.0,
+        "High": 122.0,
+        "Low": 117.0,
+        "Close": 119.0,
+        "Volume": 3119397900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-15",
+        "Open": 120.0,
+        "High": 120.0,
+        "Low": 115.0,
+        "Close": 118.0,
+        "Volume": 2267807300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-16",
+        "Open": 121.0,
+        "High": 122.0,
+        "Low": 118.0,
+        "Close": 121.0,
+        "Volume": 3464330000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-17",
+        "Open": 122.0,
+        "High": 127.0,
+        "Low": 122.0,
+        "Close": 125.0,
+        "Volume": 7262941800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-20",
+        "Open": 127.0,
+        "High": 128.0,
+        "Low": 120.0,
+        "Close": 122.0,
+        "Volume": 6521473000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-21",
+        "Open": 122.0,
+        "High": 123.0,
+        "Low": 120.0,
+        "Close": 121.0,
+        "Volume": 2981870500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-22",
+        "Open": 119.0,
+        "High": 120.0,
+        "Low": 113.0,
+        "Close": 116.0,
+        "Volume": 4225445100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-23",
+        "Open": 118.0,
+        "High": 119.0,
+        "Low": 115.0,
+        "Close": 116.0,
+        "Volume": 1792359400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-24",
+        "Open": 118.0,
+        "High": 122.0,
+        "Low": 116.0,
+        "Close": 120.0,
+        "Volume": 2348456200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-27",
+        "Open": 120.0,
+        "High": 122.0,
+        "Low": 117.0,
+        "Close": 118.0,
+        "Volume": 2277082600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-02-28",
+        "Open": 118.0,
+        "High": 119.0,
+        "Low": 114.0,
+        "Close": 118.0,
+        "Volume": 3160179500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-01",
+        "Open": 119.0,
+        "High": 123.0,
+        "Low": 118.0,
+        "Close": 122.0,
+        "Volume": 3981849100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-02",
+        "Open": 122.0,
+        "High": 125.0,
+        "Low": 120.0,
+        "Close": 121.0,
+        "Volume": 2721105200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-03",
+        "Open": 123.0,
+        "High": 124.0,
+        "Low": 122.0,
+        "Close": 124.0,
+        "Volume": 2184394100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-06",
+        "Open": 125.0,
+        "High": 129.0,
+        "Low": 124.0,
+        "Close": 128.0,
+        "Volume": 3551983600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-07",
+        "Open": 129.0,
+        "High": 132.0,
+        "Low": 128.0,
+        "Close": 129.0,
+        "Volume": 3779176100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-08",
+        "Open": 129.0,
+        "High": 131.0,
+        "Low": 126.0,
+        "Close": 130.0,
+        "Volume": 4196129100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-09",
+        "Open": 131.0,
+        "High": 132.0,
+        "Low": 128.0,
+        "Close": 129.0,
+        "Volume": 1922759300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-10",
+        "Open": 128.0,
+        "High": 129.0,
+        "Low": 123.0,
+        "Close": 125.0,
+        "Volume": 2283679700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-13",
+        "Open": 124.0,
+        "High": 129.0,
+        "Low": 121.0,
+        "Close": 126.0,
+        "Volume": 4384992200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-14",
+        "Open": 126.0,
+        "High": 127.0,
+        "Low": 118.0,
+        "Close": 121.0,
+        "Volume": 3851197200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-15",
+        "Open": 124.0,
+        "High": 125.0,
+        "Low": 119.0,
+        "Close": 121.0,
+        "Volume": 3063900200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-16",
+        "Open": 121.0,
+        "High": 121.0,
+        "Low": 116.0,
+        "Close": 117.0,
+        "Volume": 2961356000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-17",
+        "Open": 119.0,
+        "High": 121.0,
+        "Low": 113.0,
+        "Close": 116.0,
+        "Volume": 58034016600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-20",
+        "Open": 115.0,
+        "High": 116.0,
+        "Low": 108.0,
+        "Close": 108.0,
+        "Volume": 2667209800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-21",
+        "Open": 105.0,
+        "High": 111.0,
+        "Low": 103.0,
+        "Close": 110.0,
+        "Volume": 4671194300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-24",
+        "Open": 112.0,
+        "High": 115.0,
+        "Low": 111.0,
+        "Close": 115.0,
+        "Volume": 3269322300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-27",
+        "Open": 115.0,
+        "High": 117.0,
+        "Low": 113.0,
+        "Close": 115.0,
+        "Volume": 1562022400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-28",
+        "Open": 116.0,
+        "High": 118.0,
+        "Low": 115.0,
+        "Close": 118.0,
+        "Volume": 1526839400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-29",
+        "Open": 118.0,
+        "High": 119.0,
+        "Low": 115.0,
+        "Close": 116.0,
+        "Volume": 2192202900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-30",
+        "Open": 117.0,
+        "High": 118.0,
+        "Low": 112.0,
+        "Close": 112.0,
+        "Volume": 2525410300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-03-31",
+        "Open": 113.0,
+        "High": 113.0,
+        "Low": 109.0,
+        "Close": 109.0,
+        "Volume": 3043461400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-03",
+        "Open": 110.0,
+        "High": 112.0,
+        "Low": 108.0,
+        "Close": 110.0,
+        "Volume": 2344341500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-04",
+        "Open": 111.0,
+        "High": 111.0,
+        "Low": 108.0,
+        "Close": 110.0,
+        "Volume": 1524521400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-05",
+        "Open": 110.0,
+        "High": 111.0,
+        "Low": 106.0,
+        "Close": 107.0,
+        "Volume": 1998405100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-06",
+        "Open": 107.0,
+        "High": 107.0,
+        "Low": 100.0,
+        "Close": 101.0,
+        "Volume": 7189254300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-10",
+        "Open": 100.0,
+        "High": 101.0,
+        "Low": 94.0,
+        "Close": 94.0,
+        "Volume": 3935236200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-11",
+        "Open": 92.0,
+        "High": 100.0,
+        "Low": 89.0,
+        "Close": 99.0,
+        "Volume": 5972809700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-12",
+        "Open": 99.0,
+        "High": 99.0,
+        "Low": 93.0,
+        "Close": 93.0,
+        "Volume": 4216335000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-13",
+        "Open": 89.0,
+        "High": 93.0,
+        "Low": 89.0,
+        "Close": 91.0,
+        "Volume": 5114014300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-14",
+        "Open": 92.0,
+        "High": 97.0,
+        "Low": 92.0,
+        "Close": 92.0,
+        "Volume": 3840963100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-17",
+        "Open": 93.0,
+        "High": 94.0,
+        "Low": 92.0,
+        "Close": 92.0,
+        "Volume": 1182628900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-18",
+        "Open": 93.0,
+        "High": 95.0,
+        "Low": 92.0,
+        "Close": 95.0,
+        "Volume": 956749500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-26",
+        "Open": 94.0,
+        "High": 96.0,
+        "Low": 92.0,
+        "Close": 95.0,
+        "Volume": 1838524300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-27",
+        "Open": 95.0,
+        "High": 104.0,
+        "Low": 95.0,
+        "Close": 99.0,
+        "Volume": 5844603100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-04-28",
+        "Open": 101.0,
+        "High": 105.0,
+        "Low": 101.0,
+        "Close": 104.0,
+        "Volume": 2867792700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-02",
+        "Open": 104.0,
+        "High": 106.0,
+        "Low": 102.0,
+        "Close": 103.0,
+        "Volume": 1548215600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-03",
+        "Open": 103.0,
+        "High": 103.0,
+        "Low": 98.0,
+        "Close": 100.0,
+        "Volume": 1867045500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-04",
+        "Open": 99.0,
+        "High": 110.0,
+        "Low": 98.0,
+        "Close": 109.0,
+        "Volume": 3535125100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-05",
+        "Open": 109.0,
+        "High": 110.0,
+        "Low": 104.0,
+        "Close": 106.0,
+        "Volume": 3105323400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-08",
+        "Open": 107.0,
+        "High": 110.0,
+        "Low": 104.0,
+        "Close": 106.0,
+        "Volume": 4112031600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-09",
+        "Open": 108.0,
+        "High": 112.0,
+        "Low": 106.0,
+        "Close": 109.0,
+        "Volume": 4161078000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-10",
+        "Open": 110.0,
+        "High": 118.0,
+        "Low": 109.0,
+        "Close": 118.0,
+        "Volume": 5983231300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-11",
+        "Open": 118.0,
+        "High": 120.0,
+        "Low": 112.0,
+        "Close": 116.0,
+        "Volume": 5732919300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-12",
+        "Open": 119.0,
+        "High": 119.0,
+        "Low": 115.0,
+        "Close": 116.0,
+        "Volume": 7321741000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-15",
+        "Open": 116.0,
+        "High": 118.0,
+        "Low": 115.0,
+        "Close": 117.0,
+        "Volume": 3716716500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-16",
+        "Open": 117.0,
+        "High": 119.0,
+        "Low": 117.0,
+        "Close": 118.0,
+        "Volume": 3021416700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-17",
+        "Open": 118.0,
+        "High": 120.0,
+        "Low": 113.0,
+        "Close": 113.0,
+        "Volume": 5592195100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-19",
+        "Open": 114.0,
+        "High": 116.0,
+        "Low": 113.0,
+        "Close": 115.0,
+        "Volume": 4214466700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-22",
+        "Open": 115.0,
+        "High": 117.0,
+        "Low": 114.0,
+        "Close": 114.0,
+        "Volume": 4221737600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-23",
+        "Open": 115.0,
+        "High": 115.0,
+        "Low": 113.0,
+        "Close": 115.0,
+        "Volume": 4251378800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-24",
+        "Open": 114.0,
+        "High": 114.0,
+        "Low": 112.0,
+        "Close": 114.0,
+        "Volume": 3619630900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-25",
+        "Open": 113.0,
+        "High": 114.0,
+        "Low": 111.0,
+        "Close": 111.0,
+        "Volume": 4305481100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-26",
+        "Open": 112.0,
+        "High": 112.0,
+        "Low": 104.0,
+        "Close": 104.0,
+        "Volume": 3861463800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-29",
+        "Open": 104.0,
+        "High": 109.0,
+        "Low": 103.0,
+        "Close": 108.0,
+        "Volume": 4966821400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-30",
+        "Open": 109.0,
+        "High": 112.0,
+        "Low": 108.0,
+        "Close": 109.0,
+        "Volume": 5728320300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-05-31",
+        "Open": 110.0,
+        "High": 147.0,
+        "Low": 104.0,
+        "Close": 147.0,
+        "Volume": 66010808800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-05",
+        "Open": 125.0,
+        "High": 125.0,
+        "Low": 125.0,
+        "Close": 125.0,
+        "Volume": 3172186900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-06",
+        "Open": 115.0,
+        "High": 128.0,
+        "Low": 115.0,
+        "Close": 119.0,
+        "Volume": 10141976800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-07",
+        "Open": 119.0,
+        "High": 121.0,
+        "Low": 114.0,
+        "Close": 116.0,
+        "Volume": 3915981300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-08",
+        "Open": 115.0,
+        "High": 125.0,
+        "Low": 113.0,
+        "Close": 125.0,
+        "Volume": 5204715100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-09",
+        "Open": 125.0,
+        "High": 130.0,
+        "Low": 124.0,
+        "Close": 127.0,
+        "Volume": 7172535400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-12",
+        "Open": 126.0,
+        "High": 127.0,
+        "Low": 123.0,
+        "Close": 124.0,
+        "Volume": 3813070300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-13",
+        "Open": 123.0,
+        "High": 124.0,
+        "Low": 119.0,
+        "Close": 121.0,
+        "Volume": 4021624800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-14",
+        "Open": 121.0,
+        "High": 122.0,
+        "Low": 115.0,
+        "Close": 116.0,
+        "Volume": 3500010200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-15",
+        "Open": 116.0,
+        "High": 117.0,
+        "Low": 114.0,
+        "Close": 116.0,
+        "Volume": 3125574800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-16",
+        "Open": 117.0,
+        "High": 117.0,
+        "Low": 115.0,
+        "Close": 117.0,
+        "Volume": 4424854900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-19",
+        "Open": 119.0,
+        "High": 119.0,
+        "Low": 117.0,
+        "Close": 117.0,
+        "Volume": 2266856900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-20",
+        "Open": 118.0,
+        "High": 119.0,
+        "Low": 117.0,
+        "Close": 118.0,
+        "Volume": 1709433100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-21",
+        "Open": 118.0,
+        "High": 119.0,
+        "Low": 117.0,
+        "Close": 118.0,
+        "Volume": 1370208100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-22",
+        "Open": 118.0,
+        "High": 118.0,
+        "Low": 115.0,
+        "Close": 115.0,
+        "Volume": 2221730900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-23",
+        "Open": 115.0,
+        "High": 116.0,
+        "Low": 113.0,
+        "Close": 113.0,
+        "Volume": 1320419500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-26",
+        "Open": 112.0,
+        "High": 114.0,
+        "Low": 110.0,
+        "Close": 114.0,
+        "Volume": 2611487000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-06-27",
+        "Open": 113.0,
+        "High": 114.0,
+        "Low": 109.0,
+        "Close": 110.0,
+        "Volume": 3939117000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-03",
+        "Open": 110.0,
+        "High": 112.0,
+        "Low": 109.0,
+        "Close": 112.0,
+        "Volume": 1637549900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-04",
+        "Open": 112.0,
+        "High": 112.0,
+        "Low": 108.0,
+        "Close": 109.0,
+        "Volume": 1577276000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-05",
+        "Open": 109.0,
+        "High": 110.0,
+        "Low": 107.0,
+        "Close": 109.0,
+        "Volume": 1323145400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-06",
+        "Open": 108.0,
+        "High": 112.0,
+        "Low": 108.0,
+        "Close": 112.0,
+        "Volume": 1816152500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-07",
+        "Open": 111.0,
+        "High": 112.0,
+        "Low": 108.0,
+        "Close": 108.0,
+        "Volume": 1548015500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-10",
+        "Open": 108.0,
+        "High": 109.0,
+        "Low": 107.0,
+        "Close": 108.0,
+        "Volume": 906201900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-11",
+        "Open": 108.0,
+        "High": 110.0,
+        "Low": 106.0,
+        "Close": 106.0,
+        "Volume": 2241201500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-12",
+        "Open": 106.0,
+        "High": 108.0,
+        "Low": 105.0,
+        "Close": 108.0,
+        "Volume": 1657452800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-13",
+        "Open": 108.0,
+        "High": 110.0,
+        "Low": 107.0,
+        "Close": 109.0,
+        "Volume": 2486433600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-14",
+        "Open": 108.0,
+        "High": 114.0,
+        "Low": 108.0,
+        "Close": 113.0,
+        "Volume": 2787282700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-17",
+        "Open": 112.0,
+        "High": 119.0,
+        "Low": 111.0,
+        "Close": 118.0,
+        "Volume": 5259739000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-18",
+        "Open": 117.0,
+        "High": 118.0,
+        "Low": 114.0,
+        "Close": 115.0,
+        "Volume": 3676308800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-20",
+        "Open": 115.0,
+        "High": 116.0,
+        "Low": 114.0,
+        "Close": 114.0,
+        "Volume": 1291403400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-21",
+        "Open": 113.0,
+        "High": 114.0,
+        "Low": 111.0,
+        "Close": 113.0,
+        "Volume": 1724153900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-24",
+        "Open": 112.0,
+        "High": 113.0,
+        "Low": 110.0,
+        "Close": 111.0,
+        "Volume": 2390622100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-25",
+        "Open": 111.0,
+        "High": 115.0,
+        "Low": 111.0,
+        "Close": 114.0,
+        "Volume": 2132764100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-26",
+        "Open": 114.0,
+        "High": 115.0,
+        "Low": 112.0,
+        "Close": 113.0,
+        "Volume": 1549526400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-27",
+        "Open": 113.0,
+        "High": 115.0,
+        "Low": 111.0,
+        "Close": 111.0,
+        "Volume": 1293790200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-28",
+        "Open": 111.0,
+        "High": 113.0,
+        "Low": 111.0,
+        "Close": 111.0,
+        "Volume": 1045859700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-07-31",
+        "Open": 111.0,
+        "High": 113.0,
+        "Low": 109.0,
+        "Close": 113.0,
+        "Volume": 2236846500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-01",
+        "Open": 113.0,
+        "High": 115.0,
+        "Low": 112.0,
+        "Close": 112.0,
+        "Volume": 1685088000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-02",
+        "Open": 112.0,
+        "High": 113.0,
+        "Low": 109.0,
+        "Close": 109.0,
+        "Volume": 2203219400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-03",
+        "Open": 108.0,
+        "High": 110.0,
+        "Low": 108.0,
+        "Close": 109.0,
+        "Volume": 1560053200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-04",
+        "Open": 108.0,
+        "High": 110.0,
+        "Low": 107.0,
+        "Close": 108.0,
+        "Volume": 1223271700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-07",
+        "Open": 108.0,
+        "High": 109.0,
+        "Low": 106.0,
+        "Close": 109.0,
+        "Volume": 1725214800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-08",
+        "Open": 108.0,
+        "High": 109.0,
+        "Low": 103.0,
+        "Close": 104.0,
+        "Volume": 3338224900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-09",
+        "Open": 103.0,
+        "High": 104.0,
+        "Low": 92.0,
+        "Close": 93.0,
+        "Volume": 8576395700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-10",
+        "Open": 93.0,
+        "High": 98.0,
+        "Low": 91.0,
+        "Close": 94.0,
+        "Volume": 4564040400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-11",
+        "Open": 95.0,
+        "High": 96.0,
+        "Low": 90.0,
+        "Close": 91.0,
+        "Volume": 3487818100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-14",
+        "Open": 92.0,
+        "High": 93.0,
+        "Low": 90.0,
+        "Close": 91.0,
+        "Volume": 1782689300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-15",
+        "Open": 91.0,
+        "High": 97.0,
+        "Low": 91.0,
+        "Close": 97.0,
+        "Volume": 3623598700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-16",
+        "Open": 98.0,
+        "High": 98.0,
+        "Low": 92.0,
+        "Close": 93.0,
+        "Volume": 2982317700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-18",
+        "Open": 92.0,
+        "High": 94.0,
+        "Low": 91.0,
+        "Close": 92.0,
+        "Volume": 2036158900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-21",
+        "Open": 92.0,
+        "High": 94.0,
+        "Low": 88.0,
+        "Close": 88.0,
+        "Volume": 3285717900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-22",
+        "Open": 88.0,
+        "High": 90.0,
+        "Low": 88.0,
+        "Close": 88.0,
+        "Volume": 1829490700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-23",
+        "Open": 89.0,
+        "High": 90.0,
+        "Low": 85.0,
+        "Close": 86.0,
+        "Volume": 2971228900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-24",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 85.0,
+        "Volume": 2139426800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-25",
+        "Open": 85.0,
+        "High": 86.0,
+        "Low": 84.0,
+        "Close": 84.0,
+        "Volume": 1891515700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-28",
+        "Open": 85.0,
+        "High": 85.0,
+        "Low": 83.0,
+        "Close": 85.0,
+        "Volume": 1258556100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-29",
+        "Open": 85.0,
+        "High": 92.0,
+        "Low": 84.0,
+        "Close": 91.0,
+        "Volume": 5895349700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-30",
+        "Open": 92.0,
+        "High": 93.0,
+        "Low": 90.0,
+        "Close": 91.0,
+        "Volume": 1791810200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-08-31",
+        "Open": 92.0,
+        "High": 96.0,
+        "Low": 90.0,
+        "Close": 96.0,
+        "Volume": 7823385500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-01",
+        "Open": 95.0,
+        "High": 97.0,
+        "Low": 94.0,
+        "Close": 95.0,
+        "Volume": 1217262200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-04",
+        "Open": 95.0,
+        "High": 96.0,
+        "Low": 92.0,
+        "Close": 93.0,
+        "Volume": 781467500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-05",
+        "Open": 92.0,
+        "High": 94.0,
+        "Low": 90.0,
+        "Close": 90.0,
+        "Volume": 1187086600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-06",
+        "Open": 90.0,
+        "High": 92.0,
+        "Low": 89.0,
+        "Close": 91.0,
+        "Volume": 1162712100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-07",
+        "Open": 92.0,
+        "High": 99.0,
+        "Low": 92.0,
+        "Close": 94.0,
+        "Volume": 5148035100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-08",
+        "Open": 94.0,
+        "High": 95.0,
+        "Low": 92.0,
+        "Close": 93.0,
+        "Volume": 1383698800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-11",
+        "Open": 93.0,
+        "High": 93.0,
+        "Low": 86.0,
+        "Close": 89.0,
+        "Volume": 3471215900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-12",
+        "Open": 89.0,
+        "High": 89.0,
+        "Low": 86.0,
+        "Close": 88.0,
+        "Volume": 1606448800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-13",
+        "Open": 88.0,
+        "High": 90.0,
+        "Low": 86.0,
+        "Close": 87.0,
+        "Volume": 1593539700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-14",
+        "Open": 88.0,
+        "High": 91.0,
+        "Low": 87.0,
+        "Close": 88.0,
+        "Volume": 1489175200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-15",
+        "Open": 89.0,
+        "High": 93.0,
+        "Low": 88.0,
+        "Close": 92.0,
+        "Volume": 3597333200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-18",
+        "Open": 91.0,
+        "High": 94.0,
+        "Low": 90.0,
+        "Close": 92.0,
+        "Volume": 1348133400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-19",
+        "Open": 91.0,
+        "High": 92.0,
+        "Low": 90.0,
+        "Close": 90.0,
+        "Volume": 550038500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-20",
+        "Open": 90.0,
+        "High": 93.0,
+        "Low": 90.0,
+        "Close": 90.0,
+        "Volume": 1687125100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-21",
+        "Open": 90.0,
+        "High": 91.0,
+        "Low": 87.0,
+        "Close": 88.0,
+        "Volume": 1530818800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-22",
+        "Open": 88.0,
+        "High": 90.0,
+        "Low": 87.0,
+        "Close": 87.0,
+        "Volume": 1058373800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-25",
+        "Open": 88.0,
+        "High": 89.0,
+        "Low": 87.0,
+        "Close": 87.0,
+        "Volume": 1603642100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-26",
+        "Open": 91.0,
+        "High": 92.0,
+        "Low": 87.0,
+        "Close": 87.0,
+        "Volume": 5154826100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-27",
+        "Open": 87.0,
+        "High": 88.0,
+        "Low": 85.0,
+        "Close": 86.0,
+        "Volume": 2659270500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-09-29",
+        "Open": 85.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 85.0,
+        "Volume": 2859965800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-02",
+        "Open": 85.0,
+        "High": 87.0,
+        "Low": 85.0,
+        "Close": 85.0,
+        "Volume": 986519300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-03",
+        "Open": 85.0,
+        "High": 86.0,
+        "Low": 83.0,
+        "Close": 83.0,
+        "Volume": 2448384100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-04",
+        "Open": 83.0,
+        "High": 84.0,
+        "Low": 82.0,
+        "Close": 82.0,
+        "Volume": 3138177300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-05",
+        "Open": 83.0,
+        "High": 86.0,
+        "Low": 83.0,
+        "Close": 84.0,
+        "Volume": 2428232100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-06",
+        "Open": 85.0,
+        "High": 85.0,
+        "Low": 83.0,
+        "Close": 84.0,
+        "Volume": 1962597700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-09",
+        "Open": 83.0,
+        "High": 84.0,
+        "Low": 82.0,
+        "Close": 83.0,
+        "Volume": 1248266200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-10",
+        "Open": 84.0,
+        "High": 84.0,
+        "Low": 82.0,
+        "Close": 82.0,
+        "Volume": 933401300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-11",
+        "Open": 82.0,
+        "High": 83.0,
+        "Low": 79.0,
+        "Close": 79.0,
+        "Volume": 4908844300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-12",
+        "Open": 79.0,
+        "High": 80.0,
+        "Low": 71.0,
+        "Close": 73.0,
+        "Volume": 7212174800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-13",
+        "Open": 73.0,
+        "High": 75.0,
+        "Low": 66.0,
+        "Close": 67.0,
+        "Volume": 8916016400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-16",
+        "Open": 66.0,
+        "High": 70.0,
+        "Low": 54.0,
+        "Close": 66.0,
+        "Volume": 18896754400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-17",
+        "Open": 67.0,
+        "High": 69.0,
+        "Low": 61.0,
+        "Close": 65.0,
+        "Volume": 5588281300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-18",
+        "Open": 65.0,
+        "High": 66.0,
+        "Low": 62.0,
+        "Close": 63.0,
+        "Volume": 3065112200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-19",
+        "Open": 63.0,
+        "High": 66.0,
+        "Low": 62.0,
+        "Close": 64.0,
+        "Volume": 3617021300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-20",
+        "Open": 61.0,
+        "High": 62.0,
+        "Low": 58.0,
+        "Close": 60.0,
+        "Volume": 5213928100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-23",
+        "Open": 61.0,
+        "High": 65.0,
+        "Low": 61.0,
+        "Close": 63.0,
+        "Volume": 4144242600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-24",
+        "Open": 64.0,
+        "High": 66.0,
+        "Low": 63.0,
+        "Close": 63.0,
+        "Volume": 2156764800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-25",
+        "Open": 63.0,
+        "High": 64.0,
+        "Low": 60.0,
+        "Close": 60.0,
+        "Volume": 2333212100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-26",
+        "Open": 60.0,
+        "High": 60.0,
+        "Low": 56.0,
+        "Close": 57.0,
+        "Volume": 4355604000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-27",
+        "Open": 56.0,
+        "High": 58.0,
+        "Low": 55.0,
+        "Close": 56.0,
+        "Volume": 4221228800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-30",
+        "Open": 56.0,
+        "High": 58.0,
+        "Low": 55.0,
+        "Close": 56.0,
+        "Volume": 3227537700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-10-31",
+        "Open": 56.0,
+        "High": 62.0,
+        "Low": 55.0,
+        "Close": 60.0,
+        "Volume": 6189908200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-01",
+        "Open": 61.0,
+        "High": 64.0,
+        "Low": 60.0,
+        "Close": 62.0,
+        "Volume": 5268048300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-02",
+        "Open": 64.0,
+        "High": 72.0,
+        "Low": 63.0,
+        "Close": 71.0,
+        "Volume": 9289070300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-03",
+        "Open": 73.0,
+        "High": 78.0,
+        "Low": 69.0,
+        "Close": 70.0,
+        "Volume": 12357064800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-06",
+        "Open": 71.0,
+        "High": 77.0,
+        "Low": 67.0,
+        "Close": 76.0,
+        "Volume": 11609322800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-07",
+        "Open": 78.0,
+        "High": 78.0,
+        "Low": 73.0,
+        "Close": 77.0,
+        "Volume": 4504171300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-08",
+        "Open": 77.0,
+        "High": 77.0,
+        "Low": 73.0,
+        "Close": 76.0,
+        "Volume": 3477038100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-09",
+        "Open": 75.0,
+        "High": 76.0,
+        "Low": 74.0,
+        "Close": 75.0,
+        "Volume": 1518268000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-10",
+        "Open": 75.0,
+        "High": 78.0,
+        "Low": 74.0,
+        "Close": 76.0,
+        "Volume": 3357085400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-13",
+        "Open": 77.0,
+        "High": 83.0,
+        "Low": 76.0,
+        "Close": 79.0,
+        "Volume": 9298881400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-14",
+        "Open": 78.0,
+        "High": 82.0,
+        "Low": 76.0,
+        "Close": 81.0,
+        "Volume": 5498986700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-15",
+        "Open": 84.0,
+        "High": 87.0,
+        "Low": 83.0,
+        "Close": 86.0,
+        "Volume": 6644867700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-16",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 86.0,
+        "Volume": 2298431700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-17",
+        "Open": 86.0,
+        "High": 88.0,
+        "Low": 84.0,
+        "Close": 84.0,
+        "Volume": 2981278100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-20",
+        "Open": 85.0,
+        "High": 89.0,
+        "Low": 85.0,
+        "Close": 89.0,
+        "Volume": 4394326900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-21",
+        "Open": 90.0,
+        "High": 92.0,
+        "Low": 87.0,
+        "Close": 88.0,
+        "Volume": 5198685700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-22",
+        "Open": 88.0,
+        "High": 89.0,
+        "Low": 82.0,
+        "Close": 84.0,
+        "Volume": 6607513200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-23",
+        "Open": 88.0,
+        "High": 94.0,
+        "Low": 87.0,
+        "Close": 94.0,
+        "Volume": 9123547000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-24",
+        "Open": 94.0,
+        "High": 96.0,
+        "Low": 93.0,
+        "Close": 94.0,
+        "Volume": 4614062100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-27",
+        "Open": 95.0,
+        "High": 96.0,
+        "Low": 94.0,
+        "Close": 95.0,
+        "Volume": 1908160100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-28",
+        "Open": 95.0,
+        "High": 95.0,
+        "Low": 91.0,
+        "Close": 91.0,
+        "Volume": 3143885400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-29",
+        "Open": 92.0,
+        "High": 94.0,
+        "Low": 91.0,
+        "Close": 94.0,
+        "Volume": 3080840600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-11-30",
+        "Open": 95.0,
+        "High": 99.0,
+        "Low": 93.0,
+        "Close": 97.0,
+        "Volume": 7385280200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-01",
+        "Open": 100.0,
+        "High": 109.0,
+        "Low": 98.0,
+        "Close": 109.0,
+        "Volume": 13428030100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-04",
+        "Open": 110.0,
+        "High": 116.0,
+        "Low": 100.0,
+        "Close": 100.0,
+        "Volume": 16585726300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-05",
+        "Open": 101.0,
+        "High": 105.0,
+        "Low": 91.0,
+        "Close": 101.0,
+        "Volume": 17958163300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-06",
+        "Open": 103.0,
+        "High": 103.0,
+        "Low": 91.0,
+        "Close": 92.0,
+        "Volume": 12740767300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-07",
+        "Open": 92.0,
+        "High": 97.0,
+        "Low": 87.0,
+        "Close": 95.0,
+        "Volume": 10304424500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-08",
+        "Open": 97.0,
+        "High": 110.0,
+        "Low": 94.0,
+        "Close": 108.0,
+        "Volume": 13024490900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-11",
+        "Open": 109.0,
+        "High": 110.0,
+        "Low": 82.0,
+        "Close": 86.0,
+        "Volume": 34077962600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-12",
+        "Open": 86.0,
+        "High": 95.0,
+        "Low": 81.0,
+        "Close": 94.0,
+        "Volume": 11639048100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-13",
+        "Open": 93.0,
+        "High": 94.0,
+        "Low": 88.0,
+        "Close": 89.0,
+        "Volume": 6156560000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-14",
+        "Open": 95.0,
+        "High": 97.0,
+        "Low": 91.0,
+        "Close": 94.0,
+        "Volume": 8677211700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-15",
+        "Open": 93.0,
+        "High": 94.0,
+        "Low": 91.0,
+        "Close": 93.0,
+        "Volume": 3854647300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-18",
+        "Open": 92.0,
+        "High": 92.0,
+        "Low": 83.0,
+        "Close": 86.0,
+        "Volume": 10422864500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-19",
+        "Open": 86.0,
+        "High": 92.0,
+        "Low": 84.0,
+        "Close": 87.0,
+        "Volume": 4229529900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-20",
+        "Open": 88.0,
+        "High": 90.0,
+        "Low": 86.0,
+        "Close": 88.0,
+        "Volume": 1556573400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-21",
+        "Open": 88.0,
+        "High": 89.0,
+        "Low": 86.0,
+        "Close": 88.0,
+        "Volume": 1534795200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-22",
+        "Open": 90.0,
+        "High": 90.0,
+        "Low": 86.0,
+        "Close": 86.0,
+        "Volume": 1601574600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-27",
+        "Open": 86.0,
+        "High": 88.0,
+        "Low": 85.0,
+        "Close": 85.0,
+        "Volume": 1346276400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-28",
+        "Open": 85.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 85.0,
+        "Volume": 1587004900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2023-12-29",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 85.0,
+        "Close": 86.0,
+        "Volume": 1346337600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-02",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 87.0,
+        "Volume": 1033123000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-03",
+        "Open": 87.0,
+        "High": 89.0,
+        "Low": 86.0,
+        "Close": 88.0,
+        "Volume": 1522845800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-04",
+        "Open": 88.0,
+        "High": 88.0,
+        "Low": 86.0,
+        "Close": 87.0,
+        "Volume": 1260270300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-05",
+        "Open": 87.0,
+        "High": 88.0,
+        "Low": 86.0,
+        "Close": 86.0,
+        "Volume": 902294200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-08",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 85.0,
+        "Close": 86.0,
+        "Volume": 1071109200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-09",
+        "Open": 86.0,
+        "High": 90.0,
+        "Low": 86.0,
+        "Close": 88.0,
+        "Volume": 2274055400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-10",
+        "Open": 87.0,
+        "High": 88.0,
+        "Low": 86.0,
+        "Close": 87.0,
+        "Volume": 1044012100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-11",
+        "Open": 87.0,
+        "High": 92.0,
+        "Low": 87.0,
+        "Close": 91.0,
+        "Volume": 4061289200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-12",
+        "Open": 91.0,
+        "High": 92.0,
+        "Low": 88.0,
+        "Close": 91.0,
+        "Volume": 2888649600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-15",
+        "Open": 91.0,
+        "High": 91.0,
+        "Low": 91.0,
+        "Close": 91.0,
+        "Volume": 0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-16",
+        "Open": 92.0,
+        "High": 92.0,
+        "Low": 90.0,
+        "Close": 90.0,
+        "Volume": 1673821700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-17",
+        "Open": 90.0,
+        "High": 90.0,
+        "Low": 83.0,
+        "Close": 87.0,
+        "Volume": 8685343600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-18",
+        "Open": 87.0,
+        "High": 88.0,
+        "Low": 86.0,
+        "Close": 87.0,
+        "Volume": 2358522500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-19",
+        "Open": 88.0,
+        "High": 89.0,
+        "Low": 86.0,
+        "Close": 86.0,
+        "Volume": 1688760800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-22",
+        "Open": 87.0,
+        "High": 87.0,
+        "Low": 85.0,
+        "Close": 87.0,
+        "Volume": 1280204300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-23",
+        "Open": 87.0,
+        "High": 87.0,
+        "Low": 85.0,
+        "Close": 85.0,
+        "Volume": 1205633700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-24",
+        "Open": 85.0,
+        "High": 86.0,
+        "Low": 83.0,
+        "Close": 84.0,
+        "Volume": 1836423500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-25",
+        "Open": 84.0,
+        "High": 86.0,
+        "Low": 83.0,
+        "Close": 84.0,
+        "Volume": 2211926800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-26",
+        "Open": 84.0,
+        "High": 85.0,
+        "Low": 81.0,
+        "Close": 82.0,
+        "Volume": 2392268900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-29",
+        "Open": 82.0,
+        "High": 83.0,
+        "Low": 76.0,
+        "Close": 78.0,
+        "Volume": 6171480200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-30",
+        "Open": 78.0,
+        "High": 88.0,
+        "Low": 78.0,
+        "Close": 87.0,
+        "Volume": 6031069200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-01-31",
+        "Open": 87.0,
+        "High": 90.0,
+        "Low": 84.0,
+        "Close": 88.0,
+        "Volume": 4262985100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-01",
+        "Open": 91.0,
+        "High": 92.0,
+        "Low": 89.0,
+        "Close": 90.0,
+        "Volume": 5426951900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-02",
+        "Open": 90.0,
+        "High": 91.0,
+        "Low": 87.0,
+        "Close": 90.0,
+        "Volume": 1905803800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-05",
+        "Open": 90.0,
+        "High": 91.0,
+        "Low": 84.0,
+        "Close": 84.0,
+        "Volume": 3604246900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-06",
+        "Open": 84.0,
+        "High": 85.0,
+        "Low": 82.0,
+        "Close": 84.0,
+        "Volume": 3995533800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-07",
+        "Open": 84.0,
+        "High": 85.0,
+        "Low": 82.0,
+        "Close": 84.0,
+        "Volume": 1405159400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-12",
+        "Open": 86.0,
+        "High": 90.0,
+        "Low": 85.0,
+        "Close": 86.0,
+        "Volume": 5204585300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-13",
+        "Open": 86.0,
+        "High": 87.0,
+        "Low": 84.0,
+        "Close": 86.0,
+        "Volume": 1682117100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-15",
+        "Open": 88.0,
+        "High": 89.0,
+        "Low": 84.0,
+        "Close": 85.0,
+        "Volume": 3065918100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-16",
+        "Open": 85.0,
+        "High": 85.0,
+        "Low": 82.0,
+        "Close": 83.0,
+        "Volume": 2159032500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-19",
+        "Open": 84.0,
+        "High": 85.0,
+        "Low": 82.0,
+        "Close": 84.0,
+        "Volume": 3548941500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-20",
+        "Open": 84.0,
+        "High": 84.0,
+        "Low": 82.0,
+        "Close": 83.0,
+        "Volume": 1983019100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-21",
+        "Open": 82.0,
+        "High": 83.0,
+        "Low": 79.0,
+        "Close": 80.0,
+        "Volume": 3151288700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-22",
+        "Open": 80.0,
+        "High": 81.0,
+        "Low": 79.0,
+        "Close": 79.0,
+        "Volume": 1520811700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-23",
+        "Open": 79.0,
+        "High": 80.0,
+        "Low": 77.0,
+        "Close": 79.0,
+        "Volume": 2076412600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-26",
+        "Open": 79.0,
+        "High": 79.0,
+        "Low": 78.0,
+        "Close": 78.0,
+        "Volume": 1035227600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-27",
+        "Open": 78.0,
+        "High": 81.0,
+        "Low": 76.0,
+        "Close": 80.0,
+        "Volume": 4767376600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-28",
+        "Open": 79.0,
+        "High": 79.0,
+        "Low": 74.0,
+        "Close": 75.0,
+        "Volume": 7850270400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-02-29",
+        "Open": 75.0,
+        "High": 75.0,
+        "Low": 69.0,
+        "Close": 71.0,
+        "Volume": 7046461300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-01",
+        "Open": 71.0,
+        "High": 71.0,
+        "Low": 67.0,
+        "Close": 69.0,
+        "Volume": 2513433500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-04",
+        "Open": 69.0,
+        "High": 70.0,
+        "Low": 63.0,
+        "Close": 64.0,
+        "Volume": 5851813700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-05",
+        "Open": 64.0,
+        "High": 67.0,
+        "Low": 63.0,
+        "Close": 63.0,
+        "Volume": 2393361600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-06",
+        "Open": 63.0,
+        "High": 74.0,
+        "Low": 63.0,
+        "Close": 74.0,
+        "Volume": 7056190100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-07",
+        "Open": 74.0,
+        "High": 75.0,
+        "Low": 67.0,
+        "Close": 70.0,
+        "Volume": 6569707300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-08",
+        "Open": 70.0,
+        "High": 71.0,
+        "Low": 69.0,
+        "Close": 70.0,
+        "Volume": 1759717600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-13",
+        "Open": 70.0,
+        "High": 71.0,
+        "Low": 67.0,
+        "Close": 67.0,
+        "Volume": 1995358600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-14",
+        "Open": 67.0,
+        "High": 71.0,
+        "Low": 67.0,
+        "Close": 70.0,
+        "Volume": 2693907300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-15",
+        "Open": 70.0,
+        "High": 71.0,
+        "Low": 68.0,
+        "Close": 71.0,
+        "Volume": 11303727700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-18",
+        "Open": 71.0,
+        "High": 76.0,
+        "Low": 69.0,
+        "Close": 73.0,
+        "Volume": 4905864000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-19",
+        "Open": 74.0,
+        "High": 75.0,
+        "Low": 70.0,
+        "Close": 72.0,
+        "Volume": 3124615500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-20",
+        "Open": 69.0,
+        "High": 70.0,
+        "Low": 64.0,
+        "Close": 65.0,
+        "Volume": 5974342400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-21",
+        "Open": 67.0,
+        "High": 69.0,
+        "Low": 65.0,
+        "Close": 67.0,
+        "Volume": 2407379900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-22",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 65.0,
+        "Close": 68.0,
+        "Volume": 1404851500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-25",
+        "Open": 68.0,
+        "High": 68.0,
+        "Low": 68.0,
+        "Close": 68.0,
+        "Volume": 0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-26",
+        "Open": 68.0,
+        "High": 68.0,
+        "Low": 68.0,
+        "Close": 68.0,
+        "Volume": 0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-27",
+        "Open": 69.0,
+        "High": 69.0,
+        "Low": 66.0,
+        "Close": 66.0,
+        "Volume": 1824211100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-03-28",
+        "Open": 66.0,
+        "High": 69.0,
+        "Low": 66.0,
+        "Close": 69.0,
+        "Volume": 1875306700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-01",
+        "Open": 68.0,
+        "High": 69.0,
+        "Low": 66.0,
+        "Close": 68.0,
+        "Volume": 1275456800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-02",
+        "Open": 68.0,
+        "High": 70.0,
+        "Low": 68.0,
+        "Close": 70.0,
+        "Volume": 2224757900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-03",
+        "Open": 69.0,
+        "High": 70.0,
+        "Low": 68.0,
+        "Close": 68.0,
+        "Volume": 1190322400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-04",
+        "Open": 68.0,
+        "High": 69.0,
+        "Low": 67.0,
+        "Close": 69.0,
+        "Volume": 1093429800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-05",
+        "Open": 69.0,
+        "High": 69.0,
+        "Low": 67.0,
+        "Close": 68.0,
+        "Volume": 1149877400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-16",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 64.0,
+        "Close": 65.0,
+        "Volume": 3869433700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-17",
+        "Open": 66.0,
+        "High": 66.0,
+        "Low": 62.0,
+        "Close": 62.0,
+        "Volume": 2984317500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-18",
+        "Open": 63.0,
+        "High": 64.0,
+        "Low": 61.0,
+        "Close": 62.0,
+        "Volume": 1902357100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-19",
+        "Open": 61.0,
+        "High": 62.0,
+        "Low": 59.0,
+        "Close": 59.0,
+        "Volume": 3167130600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-22",
+        "Open": 59.0,
+        "High": 63.0,
+        "Low": 59.0,
+        "Close": 59.0,
+        "Volume": 1962140100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-23",
+        "Open": 59.0,
+        "High": 63.0,
+        "Low": 59.0,
+        "Close": 61.0,
+        "Volume": 3051562600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-24",
+        "Open": 62.0,
+        "High": 65.0,
+        "Low": 61.0,
+        "Close": 64.0,
+        "Volume": 2611959200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-25",
+        "Open": 63.0,
+        "High": 64.0,
+        "Low": 61.0,
+        "Close": 62.0,
+        "Volume": 1395079800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-26",
+        "Open": 61.0,
+        "High": 64.0,
+        "Low": 61.0,
+        "Close": 61.0,
+        "Volume": 1793162200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-29",
+        "Open": 61.0,
+        "High": 65.0,
+        "Low": 61.0,
+        "Close": 63.0,
+        "Volume": 2183315600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-04-30",
+        "Open": 64.0,
+        "High": 64.0,
+        "Low": 62.0,
+        "Close": 63.0,
+        "Volume": 2530850000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-02",
+        "Open": 63.0,
+        "High": 64.0,
+        "Low": 62.0,
+        "Close": 63.0,
+        "Volume": 1609394400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-03",
+        "Open": 63.0,
+        "High": 66.0,
+        "Low": 63.0,
+        "Close": 66.0,
+        "Volume": 4524284200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-06",
+        "Open": 67.0,
+        "High": 70.0,
+        "Low": 66.0,
+        "Close": 69.0,
+        "Volume": 4215661500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-07",
+        "Open": 69.0,
+        "High": 70.0,
+        "Low": 65.0,
+        "Close": 65.0,
+        "Volume": 2250633100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-08",
+        "Open": 65.0,
+        "High": 67.0,
+        "Low": 64.0,
+        "Close": 67.0,
+        "Volume": 1821308400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-13",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 65.0,
+        "Close": 67.0,
+        "Volume": 2011559400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-14",
+        "Open": 67.0,
+        "High": 67.0,
+        "Low": 65.0,
+        "Close": 65.0,
+        "Volume": 1286399300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-15",
+        "Open": 66.0,
+        "High": 67.0,
+        "Low": 64.0,
+        "Close": 66.0,
+        "Volume": 1437856700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-16",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 64.0,
+        "Close": 66.0,
+        "Volume": 2169049600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-17",
+        "Open": 65.0,
+        "High": 69.0,
+        "Low": 64.0,
+        "Close": 66.0,
+        "Volume": 4139900700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-20",
+        "Open": 67.0,
+        "High": 67.0,
+        "Low": 65.0,
+        "Close": 65.0,
+        "Volume": 2106424900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-21",
+        "Open": 66.0,
+        "High": 66.0,
+        "Low": 64.0,
+        "Close": 64.0,
+        "Volume": 1189219500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-22",
+        "Open": 64.0,
+        "High": 67.0,
+        "Low": 64.0,
+        "Close": 66.0,
+        "Volume": 2527051500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-27",
+        "Open": 67.0,
+        "High": 72.0,
+        "Low": 66.0,
+        "Close": 70.0,
+        "Volume": 6008134500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-28",
+        "Open": 70.0,
+        "High": 74.0,
+        "Low": 69.0,
+        "Close": 74.0,
+        "Volume": 4578295900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-29",
+        "Open": 73.0,
+        "High": 73.0,
+        "Low": 70.0,
+        "Close": 71.0,
+        "Volume": 2986520500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-30",
+        "Open": 70.0,
+        "High": 71.0,
+        "Low": 67.0,
+        "Close": 67.0,
+        "Volume": 4459371700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-05-31",
+        "Open": 68.0,
+        "High": 70.0,
+        "Low": 65.0,
+        "Close": 65.0,
+        "Volume": 8579592100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-03",
+        "Open": 65.0,
+        "High": 67.0,
+        "Low": 63.0,
+        "Close": 64.0,
+        "Volume": 2819780100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-04",
+        "Open": 65.0,
+        "High": 65.0,
+        "Low": 61.0,
+        "Close": 61.0,
+        "Volume": 3897345000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-05",
+        "Open": 60.0,
+        "High": 61.0,
+        "Low": 59.0,
+        "Close": 59.0,
+        "Volume": 2941421600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-06",
+        "Open": 60.0,
+        "High": 62.0,
+        "Low": 59.0,
+        "Close": 60.0,
+        "Volume": 3653448500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-07",
+        "Open": 60.0,
+        "High": 61.0,
+        "Low": 58.0,
+        "Close": 58.0,
+        "Volume": 2112800200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-10",
+        "Open": 58.0,
+        "High": 59.0,
+        "Low": 50.0,
+        "Close": 56.0,
+        "Volume": 12293676100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-11",
+        "Open": 55.0,
+        "High": 56.0,
+        "Low": 53.0,
+        "Close": 53.0,
+        "Volume": 5391123100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-12",
+        "Open": 54.0,
+        "High": 55.0,
+        "Low": 52.0,
+        "Close": 52.0,
+        "Volume": 4916057200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-13",
+        "Open": 53.0,
+        "High": 54.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 6275740200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-14",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 3781341000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-19",
+        "Open": 51.0,
+        "High": 52.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 9357880800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-20",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 3692944100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-21",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 8090430900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-24",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 1898379900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-25",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 2216509800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-26",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1958237500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-27",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 866920300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-06-28",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1042748000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-01",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 452005800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-02",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 294810200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-03",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 534537400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-04",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 491141700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-05",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 303612500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-08",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 520213800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-09",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 336028000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-10",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 7937139200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-11",
+        "Open": 50.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1466174900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-12",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 146512300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-15",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 374983200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-16",
+        "Open": 50.0,
+        "High": 50.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 119356200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-17",
+        "Open": 50.0,
+        "High": 52.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 9198716900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-18",
+        "Open": 51.0,
+        "High": 52.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 2400367200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-19",
+        "Open": 51.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1897339100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-22",
+        "Open": 50.0,
+        "High": 52.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 1834439400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-23",
+        "Open": 51.0,
+        "High": 58.0,
+        "Low": 51.0,
+        "Close": 55.0,
+        "Volume": 12618321500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-24",
+        "Open": 55.0,
+        "High": 55.0,
+        "Low": 53.0,
+        "Close": 54.0,
+        "Volume": 2660984600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-25",
+        "Open": 54.0,
+        "High": 55.0,
+        "Low": 53.0,
+        "Close": 54.0,
+        "Volume": 911091700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-26",
+        "Open": 54.0,
+        "High": 54.0,
+        "Low": 53.0,
+        "Close": 53.0,
+        "Volume": 913457100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-29",
+        "Open": 54.0,
+        "High": 55.0,
+        "Low": 53.0,
+        "Close": 54.0,
+        "Volume": 1621366300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-30",
+        "Open": 54.0,
+        "High": 55.0,
+        "Low": 53.0,
+        "Close": 55.0,
+        "Volume": 1223172300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-07-31",
+        "Open": 54.0,
+        "High": 54.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 2829429300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-01",
+        "Open": 53.0,
+        "High": 54.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 1425057600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-02",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 53.0,
+        "Volume": 2195681200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-05",
+        "Open": 52.0,
+        "High": 52.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 5466579700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-06",
+        "Open": 51.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1271351800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-07",
+        "Open": 51.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1579478100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-08",
+        "Open": 51.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 50.0,
+        "Volume": 1628260800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-09",
+        "Open": 51.0,
+        "High": 51.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 1813186600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-12",
+        "Open": 51.0,
+        "High": 53.0,
+        "Low": 50.0,
+        "Close": 51.0,
+        "Volume": 4394672600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-13",
+        "Open": 51.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 1774401600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-14",
+        "Open": 53.0,
+        "High": 55.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 3005755000,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-15",
+        "Open": 53.0,
+        "High": 54.0,
+        "Low": 52.0,
+        "Close": 54.0,
+        "Volume": 1473984200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-16",
+        "Open": 54.0,
+        "High": 54.0,
+        "Low": 53.0,
+        "Close": 54.0,
+        "Volume": 750364500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-19",
+        "Open": 54.0,
+        "High": 54.0,
+        "Low": 53.0,
+        "Close": 54.0,
+        "Volume": 1171542100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-20",
+        "Open": 54.0,
+        "High": 55.0,
+        "Low": 53.0,
+        "Close": 53.0,
+        "Volume": 2776781200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-21",
+        "Open": 53.0,
+        "High": 55.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 3026388200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-22",
+        "Open": 53.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 1177448900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-23",
+        "Open": 51.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 53.0,
+        "Volume": 994970600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-26",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 1106182300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-27",
+        "Open": 52.0,
+        "High": 52.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 1212024600,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-28",
+        "Open": 52.0,
+        "High": 52.0,
+        "Low": 51.0,
+        "Close": 51.0,
+        "Volume": 1305362100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-29",
+        "Open": 51.0,
+        "High": 52.0,
+        "Low": 51.0,
+        "Close": 51.0,
+        "Volume": 1221450500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-08-30",
+        "Open": 51.0,
+        "High": 53.0,
+        "Low": 50.0,
+        "Close": 52.0,
+        "Volume": 4089429400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-02",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 962397500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-03",
+        "Open": 52.0,
+        "High": 54.0,
+        "Low": 52.0,
+        "Close": 52.0,
+        "Volume": 1070903100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-04",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 978460800,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-05",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 52.0,
+        "Volume": 574750300,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-06",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 51.0,
+        "Close": 53.0,
+        "Volume": 884911500,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-09",
+        "Open": 52.0,
+        "High": 53.0,
+        "Low": 52.0,
+        "Close": 53.0,
+        "Volume": 1442505400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-10",
+        "Open": 52.0,
+        "High": 57.0,
+        "Low": 52.0,
+        "Close": 56.0,
+        "Volume": 7341565100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-11",
+        "Open": 56.0,
+        "High": 56.0,
+        "Low": 54.0,
+        "Close": 56.0,
+        "Volume": 2387567400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-12",
+        "Open": 56.0,
+        "High": 61.0,
+        "Low": 55.0,
+        "Close": 60.0,
+        "Volume": 11073380400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-13",
+        "Open": 60.0,
+        "High": 63.0,
+        "Low": 60.0,
+        "Close": 61.0,
+        "Volume": 4312534900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-17",
+        "Open": 62.0,
+        "High": 67.0,
+        "Low": 62.0,
+        "Close": 65.0,
+        "Volume": 7405920400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-18",
+        "Open": 66.0,
+        "High": 68.0,
+        "Low": 60.0,
+        "Close": 61.0,
+        "Volume": 8963789100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-19",
+        "Open": 61.0,
+        "High": 63.0,
+        "Low": 58.0,
+        "Close": 63.0,
+        "Volume": 8638630900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-20",
+        "Open": 64.0,
+        "High": 65.0,
+        "Low": 59.0,
+        "Close": 63.0,
+        "Volume": 11110626400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-23",
+        "Open": 63.0,
+        "High": 67.0,
+        "Low": 62.0,
+        "Close": 65.0,
+        "Volume": 5423426400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-24",
+        "Open": 65.0,
+        "High": 66.0,
+        "Low": 63.0,
+        "Close": 63.0,
+        "Volume": 3544257900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-25",
+        "Open": 63.0,
+        "High": 68.0,
+        "Low": 62.0,
+        "Close": 66.0,
+        "Volume": 10780374700,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-26",
+        "Open": 67.0,
+        "High": 70.0,
+        "Low": 66.0,
+        "Close": 70.0,
+        "Volume": 6195847400,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-27",
+        "Open": 69.0,
+        "High": 72.0,
+        "Low": 66.0,
+        "Close": 70.0,
+        "Volume": 6318881200,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-09-30",
+        "Open": 70.0,
+        "High": 70.0,
+        "Low": 66.0,
+        "Close": 66.0,
+        "Volume": 6003849900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-10-01",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 66.0,
+        "Close": 67.0,
+        "Volume": 2147891100,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-10-02",
+        "Open": 67.0,
+        "High": 68.0,
+        "Low": 63.0,
+        "Close": 65.0,
+        "Volume": 5047793900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-10-03",
+        "Open": 65.0,
+        "High": 66.0,
+        "Low": 62.0,
+        "Close": 64.0,
+        "Volume": 3526729900,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    },
+    {
+        "Date": "2024-10-04",
+        "Open": 62.0,
+        "High": 62.0,
+        "Low": 58.0,
+        "Close": 60.0,
+        "Volume": 312167008,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0
+    }
+]
