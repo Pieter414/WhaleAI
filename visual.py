@@ -14,7 +14,7 @@ class Visual(Data):
         stock_data = self.df.copy()
         stock_data[f'{mv}-day SMA'] = stock_data['Close'].rolling(window=mv).mean()
 
-        # Filter data berdasarkan range waktunya
+        # Filter based on range
         today = pd.Timestamp.now()
 
         if date_range == '5 year':
@@ -31,7 +31,7 @@ class Visual(Data):
         stock_data = stock_data[stock_data['Date'] >= start_date]
 
 
-        # Plot garis data yang difilter dengan moving average
+        # plot the time and their moving average
         plt.figure(figsize=(10, 6))
         plt.plot(stock_data['Date'], stock_data['Close'], label='Closing Price')
         plt.plot(stock_data['Date'], stock_data[f'{mv}-day SMA'], label=f'{mv}-day SMA', linestyle='--')
