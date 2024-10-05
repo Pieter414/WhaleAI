@@ -24,7 +24,7 @@ _sym_db = _symbol_database.Default()
 
 
 
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x12proto/visual.proto\"D\n\x11TimeSeriesRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\n\n\x02mv\x18\x02 \x01(\x05\x12\x12\n\ndate_range\x18\x03 \x01(\t\"<\n\x15VolumeAnalysisRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\x12\n\ndate_range\x18\x02 \x01(\t\"=\n\x16PriceAndPercentRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\x12\n\ndate_range\x18\x02 \x01(\t\"!\n\x0e\x44\x61tasetRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\"#\n\rImageResponse\x12\x12\n\nimage_data\x18\x01 \x01(\x0c\x32\x8a\x02\n\rVisualService\x12\x38\n\x12GenerateTimeSeries\x12\x12.TimeSeriesRequest\x1a\x0e.ImageResponse\x12\x39\n\x16GenerateMonthlyAverage\x12\x0f.DatasetRequest\x1a\x0e.ImageResponse\x12@\n\x16GenerateVolumeAnalysis\x12\x16.VolumeAnalysisRequest\x1a\x0e.ImageResponse\x12\x42\n\x17GeneratePriceAndPercent\x12\x17.PriceAndPercentRequest\x1a\x0e.ImageResponseB\tZ\x07./protob\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x12proto/visual.proto\"D\n\x11TimeSeriesRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\n\n\x02mv\x18\x02 \x01(\x05\x12\x12\n\ndate_range\x18\x03 \x01(\t\"<\n\x15VolumeAnalysisRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\x12\n\ndate_range\x18\x02 \x01(\t\"=\n\x16PriceAndPercentRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\x12\x12\n\ndate_range\x18\x02 \x01(\t\"!\n\x0e\x44\x61tasetRequest\x12\x0f\n\x07\x64\x61taset\x18\x01 \x01(\t\"#\n\rImageResponse\x12\x12\n\nimage_data\x18\x01 \x01(\x0c\"!\n\x0cJsonResponse\x12\x11\n\tjson_data\x18\x01 \x01(\t2\x87\x02\n\rVisualService\x12\x37\n\x12GenerateTimeSeries\x12\x12.TimeSeriesRequest\x1a\r.JsonResponse\x12\x39\n\x16GenerateMonthlyAverage\x12\x0f.DatasetRequest\x1a\x0e.ImageResponse\x12?\n\x16GenerateVolumeAnalysis\x12\x16.VolumeAnalysisRequest\x1a\r.JsonResponse\x12\x41\n\x17GeneratePriceAndPercent\x12\x17.PriceAndPercentRequest\x1a\r.JsonResponseB\tZ\x07./protob\x06proto3')
 
 _globals = globals()
 _builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)
@@ -42,6 +42,8 @@ if not _descriptor._USE_C_DESCRIPTORS:
   _globals['_DATASETREQUEST']._serialized_end=250
   _globals['_IMAGERESPONSE']._serialized_start=252
   _globals['_IMAGERESPONSE']._serialized_end=287
-  _globals['_VISUALSERVICE']._serialized_start=290
-  _globals['_VISUALSERVICE']._serialized_end=556
+  _globals['_JSONRESPONSE']._serialized_start=289
+  _globals['_JSONRESPONSE']._serialized_end=322
+  _globals['_VISUALSERVICE']._serialized_start=325
+  _globals['_VISUALSERVICE']._serialized_end=588
 # @@protoc_insertion_point(module_scope)

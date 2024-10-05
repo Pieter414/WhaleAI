@@ -37,7 +37,7 @@ class VisualServiceStub(object):
         self.GenerateTimeSeries = channel.unary_unary(
                 '/VisualService/GenerateTimeSeries',
                 request_serializer=proto_dot_visual__pb2.TimeSeriesRequest.SerializeToString,
-                response_deserializer=proto_dot_visual__pb2.ImageResponse.FromString,
+                response_deserializer=proto_dot_visual__pb2.JsonResponse.FromString,
                 _registered_method=True)
         self.GenerateMonthlyAverage = channel.unary_unary(
                 '/VisualService/GenerateMonthlyAverage',
@@ -47,12 +47,12 @@ class VisualServiceStub(object):
         self.GenerateVolumeAnalysis = channel.unary_unary(
                 '/VisualService/GenerateVolumeAnalysis',
                 request_serializer=proto_dot_visual__pb2.VolumeAnalysisRequest.SerializeToString,
-                response_deserializer=proto_dot_visual__pb2.ImageResponse.FromString,
+                response_deserializer=proto_dot_visual__pb2.JsonResponse.FromString,
                 _registered_method=True)
         self.GeneratePriceAndPercent = channel.unary_unary(
                 '/VisualService/GeneratePriceAndPercent',
                 request_serializer=proto_dot_visual__pb2.PriceAndPercentRequest.SerializeToString,
-                response_deserializer=proto_dot_visual__pb2.ImageResponse.FromString,
+                response_deserializer=proto_dot_visual__pb2.JsonResponse.FromString,
                 _registered_method=True)
 
 
@@ -89,7 +89,7 @@ def add_VisualServiceServicer_to_server(servicer, server):
             'GenerateTimeSeries': grpc.unary_unary_rpc_method_handler(
                     servicer.GenerateTimeSeries,
                     request_deserializer=proto_dot_visual__pb2.TimeSeriesRequest.FromString,
-                    response_serializer=proto_dot_visual__pb2.ImageResponse.SerializeToString,
+                    response_serializer=proto_dot_visual__pb2.JsonResponse.SerializeToString,
             ),
             'GenerateMonthlyAverage': grpc.unary_unary_rpc_method_handler(
                     servicer.GenerateMonthlyAverage,
@@ -99,12 +99,12 @@ def add_VisualServiceServicer_to_server(servicer, server):
             'GenerateVolumeAnalysis': grpc.unary_unary_rpc_method_handler(
                     servicer.GenerateVolumeAnalysis,
                     request_deserializer=proto_dot_visual__pb2.VolumeAnalysisRequest.FromString,
-                    response_serializer=proto_dot_visual__pb2.ImageResponse.SerializeToString,
+                    response_serializer=proto_dot_visual__pb2.JsonResponse.SerializeToString,
             ),
             'GeneratePriceAndPercent': grpc.unary_unary_rpc_method_handler(
                     servicer.GeneratePriceAndPercent,
                     request_deserializer=proto_dot_visual__pb2.PriceAndPercentRequest.FromString,
-                    response_serializer=proto_dot_visual__pb2.ImageResponse.SerializeToString,
+                    response_serializer=proto_dot_visual__pb2.JsonResponse.SerializeToString,
             ),
     }
     generic_handler = grpc.method_handlers_generic_handler(
@@ -133,7 +133,7 @@ class VisualService(object):
             target,
             '/VisualService/GenerateTimeSeries',
             proto_dot_visual__pb2.TimeSeriesRequest.SerializeToString,
-            proto_dot_visual__pb2.ImageResponse.FromString,
+            proto_dot_visual__pb2.JsonResponse.FromString,
             options,
             channel_credentials,
             insecure,
@@ -187,7 +187,7 @@ class VisualService(object):
             target,
             '/VisualService/GenerateVolumeAnalysis',
             proto_dot_visual__pb2.VolumeAnalysisRequest.SerializeToString,
-            proto_dot_visual__pb2.ImageResponse.FromString,
+            proto_dot_visual__pb2.JsonResponse.FromString,
             options,
             channel_credentials,
             insecure,
@@ -214,7 +214,7 @@ class VisualService(object):
             target,
             '/VisualService/GeneratePriceAndPercent',
             proto_dot_visual__pb2.PriceAndPercentRequest.SerializeToString,
-            proto_dot_visual__pb2.ImageResponse.FromString,
+            proto_dot_visual__pb2.JsonResponse.FromString,
             options,
             channel_credentials,
             insecure,

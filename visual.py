@@ -12,9 +12,12 @@ class Visual(Data):
     # Export time-series data based on time and moving average 
     def time_series(self, mv=20, date_range="all"):
         stock_data = self.df.copy()
+
+        # Compute the moving average
         stock_data[f'{mv}-day SMA'] = stock_data['Close'].rolling(window=mv).mean()
 
         # Filter based on range
+
         today = pd.Timestamp.now()
 
         if date_range == '5 year':
@@ -26,28 +29,17 @@ class Visual(Data):
         elif date_range == 'week':
             start_date = today - pd.DateOffset(weeks=1)
         elif date_range == 'all':
-            start_date = stock_data['Date'].min() 
+            start_date = stock_data['Date'].min()
 
+        # Filter the stock data by the date range
         stock_data = stock_data[stock_data['Date'] >= start_date]
 
-
-        # plot the time and their moving average
-        plt.figure(figsize=(10, 6))
-        plt.plot(stock_data['Date'], stock_data['Close'], label='Closing Price')
-        plt.plot(stock_data['Date'], stock_data[f'{mv}-day SMA'], label=f'{mv}-day SMA', linestyle='--')
-
-        plt.title(f'Stock Closing Price and {mv}-day SMA - Last {date_range.capitalize()}')
-        plt.xlabel('Date')
-        plt.ylabel('Price')
-        plt.legend()
-        plt.xticks(rotation=45)
-        plt.tight_layout()
-
-        # Export image
-        link_path = f'./assets/time_series_{date_range}.png'
-        plt.savefig(link_path)
-        print(f"Plot saved to '{link_path}'")
-
+        stock_data['Date'] = stock_data['Date'].dt.strftime('%Y-%m-%d')
+        
+        # Convert to JSON (array of objects with 'Date', 'Close', and 'SMA')
+        json_data = stock_data[['Date', 'Close', f'{mv}-day SMA']].to_json(orient='records', date_format='iso')
+        
+        return json_data
 
     # Historic monthly price change over the years
     def monthly_average(self):
@@ -89,21 +81,11 @@ class Visual(Data):
             start_date = stock_data['Date'].min() 
 
         daily_volume = daily_volume[daily_volume['Date'] >= start_date]
+        daily_volume['Date'] = daily_volume['Date'].dt.strftime('%Y-%m-%d')
         
-        plt.figure(figsize=(12, 6))
-        plt.plot(daily_volume['Date'], daily_volume['Volume'], marker='o', color='blue')
-        
-        plt.title(f'Volume Trend for BBCA - Last {date_range.capitalize()}')
-        plt.xlabel('Date')
-        plt.ylabel('Average Daily Volume')
-        plt.grid(True)
-        plt.tight_layout()
-        
-        # Export image
-        link_path = f'./assets/volume_analysis_{date_range}.png'
-        plt.savefig(link_path)
-        print(f"Plot saved to '{link_path}'")
-
+        # Convert to JSON using the json module
+        json_data = daily_volume[['Date', 'Volume']].to_json(orient='records')
+        return json_data
 
     def price_and_percent(self, date_range='all'):
         stock_data = self.df.copy()
@@ -125,21 +107,12 @@ class Visual(Data):
             start_date = stock_data['Date'].min() 
 
         stock_data = stock_data[stock_data['Date'] >= start_date]
+        stock_data['Date'] = stock_data['Date'].dt.strftime('%Y-%m-%d')
+        
+        # Create an array of JSON objects with 'Date' and 'Close_Pct_Change'
+        json_array = stock_data[['Date', 'Close_Pct_Change']].to_json(orient='records')
+        return json_array
 
-        # Create a histogram of percent changes with a fine precision
-        plt.figure(figsize=(10, 6))
-        plt.hist(stock_data['Close_Pct_Change'], bins=100, color='blue', alpha=0.7)
-
-        # Add title and labels
-        plt.title(f'Price and Percent Change Overview - Last {date_range.capitalize()}', fontsize=14)
-        plt.xlabel('Percent change in price (%)', fontsize=12)
-        plt.ylabel('Frequency', fontsize=12)
-        plt.grid(True)
-
-        # Export image
-        link_path = f'./assets/price_percent_change_{date_range}.png'
-        plt.savefig(link_path)
-        print(f"Plot saved to '{link_path}'")
 
 
 

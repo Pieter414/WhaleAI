@@ -3,10 +3,10 @@ syntax = "proto3";
 option go_package = "./proto";
 
 service VisualService {
-    rpc GenerateTimeSeries (TimeSeriesRequest) returns (ImageResponse);
+    rpc GenerateTimeSeries (TimeSeriesRequest) returns (JsonResponse);
     rpc GenerateMonthlyAverage (DatasetRequest) returns (ImageResponse);
-    rpc GenerateVolumeAnalysis (VolumeAnalysisRequest) returns (ImageResponse);
-    rpc GeneratePriceAndPercent (PriceAndPercentRequest) returns (ImageResponse);
+    rpc GenerateVolumeAnalysis (VolumeAnalysisRequest) returns (JsonResponse);
+    rpc GeneratePriceAndPercent (PriceAndPercentRequest) returns (JsonResponse);
 }
 
 message TimeSeriesRequest {
@@ -31,4 +31,8 @@ message DatasetRequest {
 
 message ImageResponse {
     bytes image_data = 1;
+}
+
+message JsonResponse {
+    string json_data = 1;
 }

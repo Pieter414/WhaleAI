@@ -28,28 +28,18 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the time series image
-        visual.time_series(mv=request.mv, date_range=request.date_range)
-
-        # Read the saved image file as binary
-        with open(f'./assets/time_series_{request.date_range}.png', 'rb') as image_file:
-            image_data = image_file.read()
-
+        stock_data = visual.time_series(mv=request.mv, date_range=request.date_range)
+        
         # Return the image data in the gRPC response
-        return visual_pb2.ImageResponse(image_data=image_data)
+        return visual_pb2.JsonResponse(json_data=stock_data)
 
     def GenerateVolumeAnalysis(self, request, context):
         # Load the Visual class with the appropriate dataset
         visual = self._load_visual(request.dataset)
         
         # Generate the volume analysis image
-        visual.volume_analysis(date_range=request.date_range)
-
-        # Read the saved image file as binary
-        with open(f'./assets/volume_analysis_{request.date_range}.png', 'rb') as image_file:
-            image_data = image_file.read()
-
-        # Return the image data in the gRPC response
-        return visual_pb2.ImageResponse(image_data=image_data)
+        volume_data = visual.volume_analysis(date_range=request.date_range)
+        return visual_pb2.JsonResponse(json_data=volume_data)
 
     def GenerateMonthlyAverage(self, request, context):
         # Load the Visual class with the appropriate dataset
@@ -70,14 +60,8 @@ class VisualServiceServicer(visual_pb2_grpc.VisualServiceServicer):
         visual = self._load_visual(request.dataset)
         
         # Generate the price and percent change image
-        visual.price_and_percent(date_range=request.date_range)
-
-        # Read the saved image file as binary
-        with open(f'./assets/price_percent_change_{request.date_range}.png', 'rb') as image_file:
-            image_data = image_file.read()
-
-        # Return the image data in the gRPC response
-        return visual_pb2.ImageResponse(image_data=image_data)
+        price_percent_data = visual.price_and_percent(date_range=request.date_range)
+        return visual_pb2.JsonResponse(json_data=price_percent_data)
 
 
 # Define the gRPC server setup
